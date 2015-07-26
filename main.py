@@ -6,7 +6,7 @@ from datetime import timedelta
 from pytimeparse.timeparse import timeparse
 import pytz
 
-output_file = 'SGDQ.ics'
+output_file = 'output/SGDQ.ics'
 schedule_url = "https://gamesdonequick.com/schedule"
 twitch_base_url = 'http://www.twitch.com/'
 

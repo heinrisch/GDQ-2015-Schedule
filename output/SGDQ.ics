@@ -1,0 +1,1881 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:GDQ Summer 2015 Schedule
+BEGIN:VEVENT
+SUMMARY:[SNES] Super Mario World 2: Yoshi's Island (100%) by Trihex
+DTSTART:20150726T170000Z
+DTEND:20150726T201000Z
+UID:Super Mario World 2: Yoshi's Island@gdq
+DESCRIPTION:Game: Super Mario World 2: Yoshi's Island\nRunners: Trihex\nCo
+ nsole: SNES\nEstimate: 2:55:00 (Setup: 0:15:00)\nComments: 100%\nTwitch Ch
+ annels: http://www.twitch.com/Trihex
+LOCATION:http://www.twitch.com/Trihex
+ORGANIZER;CN=Trihex:LINK:http://www.twitch.com/Trihex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii U] Sonic Boom: Rise of Lyric (Any% Version 1.0) by mieDax
+DTSTART:20150726T201000Z
+DTEND:20150726T210500Z
+UID:Sonic Boom: Rise of Lyric@gdq
+DESCRIPTION:Game: Sonic Boom: Rise of Lyric\nRunners: mieDax\nConsole: Wii
+  U\nEstimate: 0:50:00 (Setup: 0:05:00)\nComments: Any% Version 1.0\nTwitch
+  Channels: http://www.twitch.com/mie_dax
+LOCATION:http://www.twitch.com/mie_dax
+ORGANIZER;CN=mieDax:LINK:http://www.twitch.com/mieDax
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Gamecube] Shadow the Hedgehog (Neutral Story) by SilverSonic
+DTSTART:20150726T210500Z
+DTEND:20150726T213500Z
+UID:Shadow the Hedgehog@gdq
+DESCRIPTION:Game: Shadow the Hedgehog\nRunners: SilverSonic\nConsole: Game
+ cube\nEstimate: 0:23:00 (Setup: 0:07:00)\nComments: Neutral Story\nTwitch 
+ Channels: http://www.twitch.com/SilverSonic
+LOCATION:http://www.twitch.com/SilverSonic
+ORGANIZER;CN=SilverSonic:LINK:http://www.twitch.com/SilverSonic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Sonic Adventure DX: Director's Cut (Sonic's Story) by gamepro
+ 11
+DTSTART:20150726T213500Z
+DTEND:20150726T222000Z
+UID:Sonic Adventure DX: Director's Cut@gdq
+DESCRIPTION:Game: Sonic Adventure DX: Director's Cut\nRunners: gamepro11\n
+ Console: PC\nEstimate: 0:35:00 (Setup: 0:10:00)\nComments: Sonic's Story\n
+ Twitch Channels: http://www.twitch.com/gamepro011
+LOCATION:http://www.twitch.com/gamepro011
+ORGANIZER;CN=gamepro11:LINK:http://www.twitch.com/gamepro11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] INCENTIVE: Big the Cat's Story (Donation incentive for SADX) 
+ by JerKro
+DTSTART:20150726T222000Z
+DTEND:20150726T223500Z
+UID:INCENTIVE: Big the Cat's Story@gdq
+DESCRIPTION:Game: INCENTIVE: Big the Cat's Story\nRunners: JerKro\nConsole
+ : PC\nEstimate: 0:08:00 (Setup: 0:07:00)\nComments: Donation incentive for
+  SADX\nTwitch Channels: http://www.twitch.com/JerKro
+LOCATION:http://www.twitch.com/JerKro
+ORGANIZER;CN=JerKro:LINK:http://www.twitch.com/JerKro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Donkey Kong Country (All Stages race!) by Eazinn\, Garrison
+ \, NewAgeRetroHippie
+DTSTART:20150726T223500Z
+DTEND:20150726T233000Z
+UID:Donkey Kong Country@gdq
+DESCRIPTION:Game: Donkey Kong Country\nRunners: Eazinn\, Garrison\, NewAge
+ RetroHippie\nConsole: SNES\nEstimate: 0:40:00 (Setup: 0:15:00)\nComments: 
+ All Stages race!\nTwitch Channels: http://www.twitch.com/eazinn http://www
+ .twitch.com/gari http://www.twitch.com/newageretrohippie
+LOCATION:http://www.twitch.com/eazinn\nhttp://www.twitch.com/gari\nhttp://
+ www.twitch.com/newageretrohippie
+ORGANIZER;CN="Eazinn, Garrison, NewAgeRetroHippie":LINK:http://www.twitch.
+ com/Eazinn,LINK:http://www.twitch.com/Garrison,LINK:http://www.twitch.com/
+ NewAgeRetroHippie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] INCENTIVE! DKC glitched any% (Donation incentive for DKC) b
+ y Eazinn
+DTSTART:20150726T233000Z
+DTEND:20150726T234500Z
+UID:INCENTIVE! DKC glitched any%@gdq
+DESCRIPTION:Game: INCENTIVE! DKC glitched any%\nRunners: Eazinn\nConsole: 
+ SNES\nEstimate: 0:10:00 (Setup: 0:05:00)\nComments: Donation incentive for
+  DKC\nTwitch Channels: http://www.twitch.com/eazinn
+LOCATION:http://www.twitch.com/eazinn
+ORGANIZER;CN=Eazinn:LINK:http://www.twitch.com/Eazinn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii VC] Donkey Kong Country 3  by Supreme
+DTSTART:20150726T234500Z
+DTEND:20150727T005000Z
+UID:Donkey Kong Country 3@gdq
+DESCRIPTION:Game: Donkey Kong Country 3\nRunners: Supreme\nConsole: Wii VC
+ \nEstimate: 0:56:00 (Setup: 0:09:00)\nCouch Commentators: Poliscigirl\, Ov
+ erfiendvip\, RaikouRider\nTwitch Channels: http://www.twitch.com/supreme
+LOCATION:http://www.twitch.com/supreme
+ORGANIZER;CN=Supreme:LINK:http://www.twitch.com/Supreme
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] INCENTIVE! DKC3 Lost World (Donation incentive for DKC3) by
+  RaikouRider
+DTSTART:20150727T005000Z
+DTEND:20150727T011500Z
+UID:INCENTIVE! DKC3 Lost World@gdq
+DESCRIPTION:Game: INCENTIVE! DKC3 Lost World\nRunners: RaikouRider\nConsol
+ e: SNES\nEstimate: 0:20:00 (Setup: 0:05:00)\nComments: Donation incentive 
+ for DKC3\nTwitch Channels: http://www.twitch.com/raikourider
+LOCATION:http://www.twitch.com/raikourider
+ORGANIZER;CN=RaikouRider:LINK:http://www.twitch.com/RaikouRider
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAL PS2] Crash Bandicoot 2: Cortex Strikes Back (Any% (Game Over 
+ Abuse)) by gamepro11
+DTSTART:20150727T011500Z
+DTEND:20150727T020500Z
+UID:Crash Bandicoot 2: Cortex Strikes Back@gdq
+DESCRIPTION:Game: Crash Bandicoot 2: Cortex Strikes Back\nRunners: gamepro
+ 11\nConsole: PAL PS2\nEstimate: 0:43:00 (Setup: 0:07:00)\nComments: Any% (
+ Game Over Abuse)\nTwitch Channels: http://www.twitch.com/gamepro011
+LOCATION:http://www.twitch.com/gamepro011
+ORGANIZER;CN=gamepro11:LINK:http://www.twitch.com/gamepro11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS2] Crash Bandicoot: Warped (Race!) by Kollin7\, Wheelio
+DTSTART:20150727T020500Z
+DTEND:20150727T031000Z
+UID:Crash Bandicoot: Warped@gdq
+DESCRIPTION:Game: Crash Bandicoot: Warped\nRunners: Kollin7\, Wheelio\nCon
+ sole: PS2\nEstimate: 0:50:00 (Setup: 0:15:00)\nComments: Race!\nCouch Comm
+ entators: BubblesDelFuego\, ChrisLBC\nTwitch Channels: http://www.twitch.c
+ om/kollin7 http://www.twitch.com/e_wheelio
+LOCATION:http://www.twitch.com/kollin7\nhttp://www.twitch.com/e_wheelio
+ORGANIZER;CN="Kollin7, Wheelio":LINK:http://www.twitch.com/Kollin7,LINK:ht
+ tp://www.twitch.com/Wheelio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Resident Evil 3 (Nemesis%\; start of Spooky Games Done Quick)
+  by Carcinogen
+DTSTART:20150727T031000Z
+DTEND:20150727T043000Z
+UID:Resident Evil 3@gdq
+DESCRIPTION:Game: Resident Evil 3\nRunners: Carcinogen\nConsole: PC\nEstim
+ ate: 1:10:00 (Setup: 0:10:00)\nComments: Nemesis%\; start of Spooky Games 
+ Done Quick\nTwitch Channels: http://www.twitch.com/carcinogensda
+LOCATION:http://www.twitch.com/carcinogensda
+ORGANIZER;CN=Carcinogen:LINK:http://www.twitch.com/Carcinogen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Resident Evil 4 (Incentive for Professional Mode) by JTB
+DTSTART:20150727T043000Z
+DTEND:20150727T063000Z
+UID:Resident Evil 4@gdq
+DESCRIPTION:Game: Resident Evil 4\nRunners: JTB\nConsole: PC\nEstimate: 1:
+ 45:00 (Setup: 0:15:00)\nComments: Incentive for Professional Mode\nTwitch 
+ Channels: http://www.twitch.com/jtb__
+LOCATION:http://www.twitch.com/jtb__
+ORGANIZER;CN=JTB:LINK:http://www.twitch.com/JTB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Silent Hill 2 (End of Spooky Games Done Quick) by SanGillespi
+ e
+DTSTART:20150727T063000Z
+DTEND:20150727T075000Z
+UID:Silent Hill 2@gdq
+DESCRIPTION:Game: Silent Hill 2\nRunners: SanGillespie\nConsole: PC\nEstim
+ ate: 1:10:00 (Setup: 0:10:00)\nComments: End of Spooky Games Done Quick\nT
+ witch Channels: http://www.twitch.com/SanGillespie
+LOCATION:http://www.twitch.com/SanGillespie
+ORGANIZER;CN=SanGillespie:LINK:http://www.twitch.com/SanGillespie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS3] Stranglehold  by Bonesaw577
+DTSTART:20150727T075000Z
+DTEND:20150727T093000Z
+UID:Stranglehold@gdq
+DESCRIPTION:Game: Stranglehold\nRunners: Bonesaw577\nConsole: PS3\nEstimat
+ e: 1:35:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/Bonesa
+ w577
+LOCATION:http://www.twitch.com/Bonesaw577
+ORGANIZER;CN=Bonesaw577:LINK:http://www.twitch.com/Bonesaw577
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[XBox 360] Shenmue II  by Puri_Puri
+DTSTART:20150727T093000Z
+DTEND:20150727T115000Z
+UID:Shenmue II@gdq
+DESCRIPTION:Game: Shenmue II\nRunners: Puri_Puri\nConsole: XBox 360\nEstim
+ ate: 2:15:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/Puri
+ _Puri
+LOCATION:http://www.twitch.com/Puri_Puri
+ORGANIZER;CN=Puri_Puri:LINK:http://www.twitch.com/Puri_Puri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS2] TRAG: Mission of Mercy  by CavemanDCJ
+DTSTART:20150727T115000Z
+DTEND:20150727T125500Z
+UID:TRAG: Mission of Mercy@gdq
+DESCRIPTION:Game: TRAG: Mission of Mercy\nRunners: CavemanDCJ\nConsole: PS
+ 2\nEstimate: 0:56:00 (Setup: 0:09:00)\nTwitch Channels: http://www.twitch.
+ com/CavemanDCJ
+LOCATION:http://www.twitch.com/CavemanDCJ
+ORGANIZER;CN=CavemanDCJ:LINK:http://www.twitch.com/CavemanDCJ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Tony Hawk's American Wasteland (Classic All Goals) by moofin
+DTSTART:20150727T125500Z
+DTEND:20150727T131500Z
+UID:Tony Hawk's American Wasteland@gdq
+DESCRIPTION:Game: Tony Hawk's American Wasteland\nRunners: moofin\nConsole
+ : PC\nEstimate: 0:15:00 (Setup: 0:05:00)\nComments: Classic All Goals\nCou
+ ch Commentators: chrno\nTwitch Channels: http://www.twitch.com/moofinmoofi
+ n
+LOCATION:http://www.twitch.com/moofinmoofin
+ORGANIZER;CN=moofin:LINK:http://www.twitch.com/moofin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS2] Disney Extreme Skate Adventure (Start of Disney extravaganza
+ ) by Chrno
+DTSTART:20150727T131500Z
+DTEND:20150727T134000Z
+UID:Disney Extreme Skate Adventure@gdq
+DESCRIPTION:Game: Disney Extreme Skate Adventure\nRunners: Chrno\nConsole:
+  PS2\nEstimate: 0:22:00 (Setup: 0:03:00)\nComments: Start of Disney extrav
+ aganza\nCouch Commentators: moofin\nTwitch Channels: http://www.twitch.com
+ /chrnothesinner
+LOCATION:http://www.twitch.com/chrnothesinner
+ORGANIZER;CN=Chrno:LINK:http://www.twitch.com/Chrno
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Disney's The Little Mermaid  by BBQSauz
+DTSTART:20150727T134000Z
+DTEND:20150727T135500Z
+UID:Disney's The Little Mermaid@gdq
+DESCRIPTION:Game: Disney's The Little Mermaid\nRunners: BBQSauz\nConsole: 
+ NES\nEstimate: 0:10:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitc
+ h.com/BBQSauz
+LOCATION:http://www.twitch.com/BBQSauz
+ORGANIZER;CN=BBQSauz:LINK:http://www.twitch.com/BBQSauz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Chip N Dale: Rescue Rangers (All Zones race!) by infinitemys
+ tery\, philosoraptor42
+DTSTART:20150727T135500Z
+DTEND:20150727T142500Z
+UID:Chip N Dale: Rescue Rangers@gdq
+DESCRIPTION:Game: Chip N Dale: Rescue Rangers\nRunners: infinitemystery\, 
+ philosoraptor42\nConsole: NES\nEstimate: 0:20:00 (Setup: 0:10:00)\nComment
+ s: All Zones race!\nTwitch Channels: http://www.twitch.com/infinitemystery
+  http://www.twitch.com/philosoraptor42
+LOCATION:http://www.twitch.com/infinitemystery\nhttp://www.twitch.com/phil
+ osoraptor42
+ORGANIZER;CN="infinitemystery, philosoraptor42":LINK:http://www.twitch.com
+ /infinitemystery,LINK:http://www.twitch.com/philosoraptor42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] DuckTales (any% Difficult\; start of Summer Games Done Quack
+ ) by mashystrr
+DTSTART:20150727T142500Z
+DTEND:20150727T144000Z
+UID:DuckTales@gdq
+DESCRIPTION:Game: DuckTales\nRunners: mashystrr\nConsole: NES\nEstimate: 0
+ :10:00 (Setup: 0:05:00)\nComments: any% Difficult\; start of Summer Games 
+ Done Quack\nTwitch Channels: http://www.twitch.com/mashystrr
+LOCATION:http://www.twitch.com/mashystrr
+ORGANIZER;CN=mashystrr:LINK:http://www.twitch.com/mashystrr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Maui Mallard in Cold Shadow (Incentive for Hard mode\; end 
+ of Summer Games Done Quack) by MechaRichter
+DTSTART:20150727T144000Z
+DTEND:20150727T153000Z
+UID:Maui Mallard in Cold Shadow@gdq
+DESCRIPTION:Game: Maui Mallard in Cold Shadow\nRunners: MechaRichter\nCons
+ ole: SNES\nEstimate: 0:42:00 (Setup: 0:08:00)\nComments: Incentive for Har
+ d mode\; end of Summer Games Done Quack\nCouch Commentators: PJ\, Murphgat
+ or\, Klaige\nTwitch Channels: http://www.twitch.com/MechaRichter
+LOCATION:http://www.twitch.com/MechaRichter
+ORGANIZER;CN=MechaRichter:LINK:http://www.twitch.com/MechaRichter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Mickey Mania  by YellowKillerBee
+DTSTART:20150727T153000Z
+DTEND:20150727T160000Z
+UID:Mickey Mania@gdq
+DESCRIPTION:Game: Mickey Mania\nRunners: YellowKillerBee\nConsole: SNES\nE
+ stimate: 0:25:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/
+ YellowKillerBee
+LOCATION:http://www.twitch.com/YellowKillerBee
+ORGANIZER;CN=YellowKillerBee:LINK:http://www.twitch.com/YellowKillerBee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Castle of Illusion Starring Mickey Mouse: HD (End of Disney e
+ xtravaganza) by thenitnat
+DTSTART:20150727T160000Z
+DTEND:20150727T165500Z
+UID:Castle of Illusion Starring Mickey Mouse: HD@gdq
+DESCRIPTION:Game: Castle of Illusion Starring Mickey Mouse: HD\nRunners: t
+ henitnat\nConsole: PC\nEstimate: 0:50:00 (Setup: 0:05:00)\nComments: End o
+ f Disney extravaganza\nTwitch Channels: http://www.twitch.com/thenitnat
+LOCATION:http://www.twitch.com/thenitnat
+ORGANIZER;CN=thenitnat:LINK:http://www.twitch.com/thenitnat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Ghosts N Goblins (2 loop run) by error72
+DTSTART:20150727T165500Z
+DTEND:20150727T173000Z
+UID:Ghosts N Goblins@gdq
+DESCRIPTION:Game: Ghosts N Goblins\nRunners: error72\nConsole: NES\nEstima
+ te: 0:30:00 (Setup: 0:05:00)\nComments: 2 loop run\nCouch Commentators: Pr
+ esJPolk\, PJ\nTwitch Channels: http://www.twitch.com/error72
+LOCATION:http://www.twitch.com/error72
+ORGANIZER;CN=error72:LINK:http://www.twitch.com/error72
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS2] Ghouls N Ghosts (2 loop run) by Aquas
+DTSTART:20150727T173000Z
+DTEND:20150727T175500Z
+UID:Ghouls N Ghosts@gdq
+DESCRIPTION:Game: Ghouls N Ghosts\nRunners: Aquas\nConsole: PS2\nEstimate:
+  0:20:00 (Setup: 0:05:00)\nComments: 2 loop run\nCouch Commentators: PJ\, 
+ Edobean\nTwitch Channels: http://www.twitch.com/aquas_
+LOCATION:http://www.twitch.com/aquas_
+ORGANIZER;CN=Aquas:LINK:http://www.twitch.com/Aquas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Maldita Castilla (100% race) by pcull44444\, Mr_Weables
+DTSTART:20150727T175500Z
+DTEND:20150727T184000Z
+UID:Maldita Castilla@gdq
+DESCRIPTION:Game: Maldita Castilla\nRunners: pcull44444\, Mr_Weables\nCons
+ ole: PC\nEstimate: 0:35:00 (Setup: 0:10:00)\nComments: 100% race\nTwitch C
+ hannels: http://www.twitch.com/pcull44444 http://www.twitch.com/Mr_Weables
+LOCATION:http://www.twitch.com/pcull44444\nhttp://www.twitch.com/Mr_Weable
+ s
+ORGANIZER;CN="pcull44444, Mr_Weables":LINK:http://www.twitch.com/pcull4444
+ 4,LINK:http://www.twitch.com/Mr_Weables
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Gauntlet (NES)  by Feasel
+DTSTART:20150727T184000Z
+DTEND:20150727T190500Z
+UID:Gauntlet (NES)@gdq
+DESCRIPTION:Game: Gauntlet (NES)\nRunners: Feasel\nConsole: NES\nEstimate:
+  0:20:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/Feasel
+LOCATION:http://www.twitch.com/Feasel
+ORGANIZER;CN=Feasel:LINK:http://www.twitch.com/Feasel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Gauntlet (PC) (Co-op) by Murphagator\, PJ
+DTSTART:20150727T190500Z
+DTEND:20150727T202500Z
+UID:Gauntlet (PC)@gdq
+DESCRIPTION:Game: Gauntlet (PC)\nRunners: Murphagator\, PJ\nConsole: PC\nE
+ stimate: 1:10:00 (Setup: 0:10:00)\nComments: Co-op\nCouch Commentators: Me
+ chaRichter\, Klaige\nTwitch Channels: http://www.twitch.com/Murphagator ht
+ tp://www.twitch.com/pjdicesare
+LOCATION:http://www.twitch.com/Murphagator\nhttp://www.twitch.com/pjdicesa
+ re
+ORGANIZER;CN="Murphagator, PJ":LINK:http://www.twitch.com/Murphagator,LINK
+ :http://www.twitch.com/PJ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Genesis] Toejam and Earl  by peaches
+DTSTART:20150727T202500Z
+DTEND:20150727T210000Z
+UID:Toejam and Earl@gdq
+DESCRIPTION:Game: Toejam and Earl\nRunners: peaches\nConsole: Genesis\nEst
+ imate: 0:30:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/pe
+ aches
+LOCATION:http://www.twitch.com/peaches
+ORGANIZER;CN=peaches:LINK:http://www.twitch.com/peaches
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Arcade] Dungeon Magic (Gren run) by iast
+DTSTART:20150727T210000Z
+DTEND:20150727T212500Z
+UID:Dungeon Magic@gdq
+DESCRIPTION:Game: Dungeon Magic\nRunners: iast\nConsole: Arcade\nEstimate:
+  0:20:00 (Setup: 0:05:00)\nComments: Gren run\nTwitch Channels: http://www
+ .twitch.com/iastsa
+LOCATION:http://www.twitch.com/iastsa
+ORGANIZER;CN=iast:LINK:http://www.twitch.com/iast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[XBox 360] Super Monkey Ball Deluxe (Expert run) by Geoff
+DTSTART:20150727T212500Z
+DTEND:20150727T221500Z
+UID:Super Monkey Ball Deluxe@gdq
+DESCRIPTION:Game: Super Monkey Ball Deluxe\nRunners: Geoff\nConsole: XBox 
+ 360\nEstimate: 0:45:00 (Setup: 0:05:00)\nComments: Expert run\nTwitch Chan
+ nels: http://www.twitch.com/Geoff
+LOCATION:http://www.twitch.com/Geoff
+ORGANIZER;CN=Geoff:LINK:http://www.twitch.com/Geoff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] BONUS! Octodad Dadliest Catch co-op run (Bonus game #1) by Ge
+ off\, misskaddykins
+DTSTART:20150727T221500Z
+DTEND:20150727T224500Z
+UID:BONUS! Octodad Dadliest Catch co-op run@gdq
+DESCRIPTION:Game: BONUS! Octodad Dadliest Catch co-op run\nRunners: Geoff\
+ , misskaddykins\nConsole: PC\nEstimate: 0:25:00 (Setup: 0:05:00)\nComments
+ : Bonus game #1\nCouch Commentators: CyclopsDragon\, Mintcup\, Gutesy\, Cu
+ rbstompers\nTwitch Channels: http://www.twitch.com/Geoff http://www.twitch
+ .com/misskaddykins
+LOCATION:http://www.twitch.com/Geoff\nhttp://www.twitch.com/misskaddykins
+ORGANIZER;CN="Geoff, misskaddykins":LINK:http://www.twitch.com/Geoff,LINK:
+ http://www.twitch.com/misskaddykins
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Arcade] Ninja Baseball Batman  by Murphagator
+DTSTART:20150727T224500Z
+DTEND:20150727T232500Z
+UID:Ninja Baseball Batman@gdq
+DESCRIPTION:Game: Ninja Baseball Batman\nRunners: Murphagator\nConsole: Ar
+ cade\nEstimate: 0:25:00 (Setup: 0:15:00)\nTwitch Channels: http://www.twit
+ ch.com/Murphagator
+LOCATION:http://www.twitch.com/Murphagator
+ORGANIZER;CN=Murphagator:LINK:http://www.twitch.com/Murphagator
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Arcade] Spica Adventure  by EggmaniMN
+DTSTART:20150727T232500Z
+DTEND:20150727T234000Z
+UID:Spica Adventure@gdq
+DESCRIPTION:Game: Spica Adventure\nRunners: EggmaniMN\nConsole: Arcade\nEs
+ timate: 0:08:00 (Setup: 0:07:00)\nTwitch Channels: http://www.twitch.com/E
+ ggmaniMN
+LOCATION:http://www.twitch.com/EggmaniMN
+ORGANIZER;CN=EggmaniMN:LINK:http://www.twitch.com/EggmaniMN
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Arcade] Tetris: The Grand Master 2+\, TA Death Mode  by TGM crew
+DTSTART:20150727T234000Z
+DTEND:20150728T000000Z
+UID:Tetris: The Grand Master 2+\, TA Death Mode@gdq
+DESCRIPTION:Game: Tetris: The Grand Master 2+\, TA Death Mode\nRunners: TG
+ M crew\nConsole: Arcade\nEstimate: 0:15:00 (Setup: 0:05:00)
+ORGANIZER;CN=TGMcrew:LINK:http://www.twitch.com/TGMcrew
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Arcade] Tetris: The Grand Master 3\, Master mode  by TGM crew
+DTSTART:20150728T000000Z
+DTEND:20150728T001500Z
+UID:Tetris: The Grand Master 3\, Master mode@gdq
+DESCRIPTION:Game: Tetris: The Grand Master 3\, Master mode\nRunners: TGM c
+ rew\nConsole: Arcade\nEstimate: 0:10:00 (Setup: 0:05:00)
+ORGANIZER;CN=TGMcrew:LINK:http://www.twitch.com/TGMcrew
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Arcade] Tetris: The Grand Master 3\, Shirase mode  by TGM crew
+DTSTART:20150728T001500Z
+DTEND:20150728T003000Z
+UID:Tetris: The Grand Master 3\, Shirase mode@gdq
+DESCRIPTION:Game: Tetris: The Grand Master 3\, Shirase mode\nRunners: TGM 
+ crew\nConsole: Arcade\nEstimate: 0:10:00 (Setup: 0:05:00)
+ORGANIZER;CN=TGMcrew:LINK:http://www.twitch.com/TGMcrew
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Arcade] Tetris: The Grand Master 3\, Sakura mode  by TGM crew
+DTSTART:20150728T003000Z
+DTEND:20150728T004000Z
+UID:Tetris: The Grand Master 3\, Sakura mode@gdq
+DESCRIPTION:Game: Tetris: The Grand Master 3\, Sakura mode\nRunners: TGM c
+ rew\nConsole: Arcade\nEstimate: 0:08:00 (Setup: 0:02:00)
+ORGANIZER;CN=TGMcrew:LINK:http://www.twitch.com/TGMcrew
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Arcade] Tetris: The Grand Master series\, Exhibition modes  by TG
+ M crew
+DTSTART:20150728T004000Z
+DTEND:20150728T011500Z
+UID:Tetris: The Grand Master series\, Exhibition modes@gdq
+DESCRIPTION:Game: Tetris: The Grand Master series\, Exhibition modes\nRunn
+ ers: TGM crew\nConsole: Arcade\nEstimate: 0:30:00 (Setup: 0:05:00)
+ORGANIZER;CN=TGMcrew:LINK:http://www.twitch.com/TGMcrew
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[GC version on Wii] The Legend of Zelda: Twilight Princess  by Cha
+ otic_Ace
+DTSTART:20150728T011500Z
+DTEND:20150728T045000Z
+UID:The Legend of Zelda: Twilight Princess@gdq
+DESCRIPTION:Game: The Legend of Zelda: Twilight Princess\nRunners: Chaotic
+ _Ace\nConsole: GC version on Wii\nEstimate: 3:25:00 (Setup: 0:10:00)\nTwit
+ ch Channels: http://www.twitch.com/Chaotic_Ace
+LOCATION:http://www.twitch.com/Chaotic_Ace
+ORGANIZER;CN=Chaotic_Ace:LINK:http://www.twitch.com/Chaotic_Ace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Bioshock Infinite  by FearfulFerret
+DTSTART:20150728T045000Z
+DTEND:20150728T071500Z
+UID:Bioshock Infinite@gdq
+DESCRIPTION:Game: Bioshock Infinite\nRunners: FearfulFerret\nConsole: PC\n
+ Estimate: 2:15:00 (Setup: 0:10:00)\nCouch Commentators: ZachSK\nTwitch Cha
+ nnels: http://www.twitch.com/FearfulFerret
+LOCATION:http://www.twitch.com/FearfulFerret
+ORGANIZER;CN=FearfulFerret:LINK:http://www.twitch.com/FearfulFerret
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Borderlands: The Pre-Sequel  by TheFuncannon
+DTSTART:20150728T071500Z
+DTEND:20150728T100500Z
+UID:Borderlands: The Pre-Sequel@gdq
+DESCRIPTION:Game: Borderlands: The Pre-Sequel\nRunners: TheFuncannon\nCons
+ ole: PC\nEstimate: 2:40:00 (Setup: 0:10:00)\nCouch Commentators: MolluskMo
+ th\, Abahbob\, RaysFire\nTwitch Channels: http://www.twitch.com/TheFuncann
+ on
+LOCATION:http://www.twitch.com/TheFuncannon
+ORGANIZER;CN=TheFuncannon:LINK:http://www.twitch.com/TheFuncannon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Lovely Planet  by Sigmasin
+DTSTART:20150728T100500Z
+DTEND:20150728T104000Z
+UID:Lovely Planet@gdq
+DESCRIPTION:Game: Lovely Planet\nRunners: Sigmasin\nConsole: PC\nEstimate:
+  0:28:00 (Setup: 0:07:00)\nTwitch Channels: http://www.twitch.com/Sigmasin
+LOCATION:http://www.twitch.com/Sigmasin
+ORGANIZER;CN=Sigmasin:LINK:http://www.twitch.com/Sigmasin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS2] Digimon World  by AzureFlame4
+DTSTART:20150728T104000Z
+DTEND:20150728T122000Z
+UID:Digimon World@gdq
+DESCRIPTION:Game: Digimon World\nRunners: AzureFlame4\nConsole: PS2\nEstim
+ ate: 1:35:00 (Setup: 0:05:00)\nCouch Commentators: Kheartz\, ShiningDragoo
+ n\nTwitch Channels: http://www.twitch.com/AzureFlame4
+LOCATION:http://www.twitch.com/AzureFlame4
+ORGANIZER;CN=AzureFlame4:LINK:http://www.twitch.com/AzureFlame4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] StarTropics  by Zodastone
+DTSTART:20150728T122000Z
+DTEND:20150728T134500Z
+UID:StarTropics@gdq
+DESCRIPTION:Game: StarTropics\nRunners: Zodastone\nConsole: NES\nEstimate:
+  1:20:00 (Setup: 0:05:00)\nCouch Commentators: DarkTerrex\, Philosoraptor4
+ 2\, Darkwing_Duck\nTwitch Channels: http://www.twitch.com/Zodastone
+LOCATION:http://www.twitch.com/Zodastone
+ORGANIZER;CN=Zodastone:LINK:http://www.twitch.com/Zodastone
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Rygar (Glitched any%) by ShiningDragoon
+DTSTART:20150728T134500Z
+DTEND:20150728T140500Z
+UID:Rygar@gdq
+DESCRIPTION:Game: Rygar\nRunners: ShiningDragoon\nConsole: NES\nEstimate: 
+ 0:15:00 (Setup: 0:05:00)\nComments: Glitched any%\nTwitch Channels: http:/
+ /www.twitch.com/ShiningDragoon
+LOCATION:http://www.twitch.com/ShiningDragoon
+ORGANIZER;CN=ShiningDragoon:LINK:http://www.twitch.com/ShiningDragoon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Monster Party  by johncarls
+DTSTART:20150728T140500Z
+DTEND:20150728T143000Z
+UID:Monster Party@gdq
+DESCRIPTION:Game: Monster Party\nRunners: johncarls\nConsole: NES\nEstimat
+ e: 0:20:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/johnca
+ rls
+LOCATION:http://www.twitch.com/johncarls
+ORGANIZER;CN=johncarls:LINK:http://www.twitch.com/johncarls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Metal Storm (2nd loop) by UraniumAnchor
+DTSTART:20150728T143000Z
+DTEND:20150728T145500Z
+UID:Metal Storm@gdq
+DESCRIPTION:Game: Metal Storm\nRunners: UraniumAnchor\nConsole: NES\nEstim
+ ate: 0:20:00 (Setup: 0:05:00)\nComments: 2nd loop\nTwitch Channels: http:/
+ /www.twitch.com/UraniumAnchor
+LOCATION:http://www.twitch.com/UraniumAnchor
+ORGANIZER;CN=UraniumAnchor:LINK:http://www.twitch.com/UraniumAnchor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Star Wars (NES)  by Striker
+DTSTART:20150728T145500Z
+DTEND:20150728T151500Z
+UID:Star Wars (NES)@gdq
+DESCRIPTION:Game: Star Wars (NES)\nRunners: Striker\nConsole: NES\nEstimat
+ e: 0:15:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/Strike
+ r
+LOCATION:http://www.twitch.com/Striker
+ORGANIZER;CN=Striker:LINK:http://www.twitch.com/Striker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Wizards & Warriors (Incentive for All Stages\, race) by Dark
+ Terrex\, Feasel
+DTSTART:20150728T151500Z
+DTEND:20150728T154500Z
+UID:Wizards & Warriors@gdq
+DESCRIPTION:Game: Wizards & Warriors\nRunners: DarkTerrex\, Feasel\nConsol
+ e: NES\nEstimate: 0:25:00 (Setup: 0:05:00)\nComments: Incentive for All St
+ ages\, race\nCouch Commentators: faux_show\, Cirno_TV\nTwitch Channels: ht
+ tp://www.twitch.com/DarkTerrex http://www.twitch.com/Feasel
+LOCATION:http://www.twitch.com/DarkTerrex\nhttp://www.twitch.com/Feasel
+ORGANIZER;CN="DarkTerrex, Feasel":LINK:http://www.twitch.com/DarkTerrex,LI
+ NK:http://www.twitch.com/Feasel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS3] Metal Gear (MSX) (Big Boss Rank) by puchiedarcy
+DTSTART:20150728T154500Z
+DTEND:20150728T163000Z
+UID:Metal Gear (MSX)@gdq
+DESCRIPTION:Game: Metal Gear (MSX)\nRunners: puchiedarcy\nConsole: PS3\nEs
+ timate: 0:40:00 (Setup: 0:05:00)\nComments: Big Boss Rank\nTwitch Channels
+ : http://www.twitch.com/puchiedarcy
+LOCATION:http://www.twitch.com/puchiedarcy
+ORGANIZER;CN=puchiedarcy:LINK:http://www.twitch.com/puchiedarcy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS2] Rayman  by spikevegeta
+DTSTART:20150728T163000Z
+DTEND:20150728T180500Z
+UID:Rayman@gdq
+DESCRIPTION:Game: Rayman\nRunners: spikevegeta\nConsole: PS2\nEstimate: 1:
+ 30:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/spikevegeta
+LOCATION:http://www.twitch.com/spikevegeta
+ORGANIZER;CN=spikevegeta:LINK:http://www.twitch.com/spikevegeta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DS] Metroid Prime Hunters (All Items) by Mr_Shasta
+DTSTART:20150728T180500Z
+DTEND:20150728T194500Z
+UID:Metroid Prime Hunters@gdq
+DESCRIPTION:Game: Metroid Prime Hunters\nRunners: Mr_Shasta\nConsole: DS\n
+ Estimate: 1:30:00 (Setup: 0:10:00)\nComments: All Items\nCouch Commentator
+ s: Kirbymastah\, DarkTerrex\, Munchakoopas\nTwitch Channels: http://www.tw
+ itch.com/Mr_Shasta
+LOCATION:http://www.twitch.com/Mr_Shasta
+ORGANIZER;CN=Mr_Shasta:LINK:http://www.twitch.com/Mr_Shasta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Gamecube] Metroid Prime 2: Echoes (100%) by MilesSMB
+DTSTART:20150728T194500Z
+DTEND:20150728T223500Z
+UID:Metroid Prime 2: Echoes@gdq
+DESCRIPTION:Game: Metroid Prime 2: Echoes\nRunners: MilesSMB\nConsole: Gam
+ ecube\nEstimate: 2:45:00 (Setup: 0:05:00)\nComments: 100%\nCouch Commentat
+ ors: kirbymastah\nTwitch Channels: http://www.twitch.com/MilesSMB
+LOCATION:http://www.twitch.com/MilesSMB
+ORGANIZER;CN=MilesSMB:LINK:http://www.twitch.com/MilesSMB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS2] Mega Man X8 (Race!) by MrCab\, PND\, Satoryu
+DTSTART:20150728T223500Z
+DTEND:20150729T000500Z
+UID:Mega Man X8@gdq
+DESCRIPTION:Game: Mega Man X8\nRunners: MrCab\, PND\, Satoryu\nConsole: PS
+ 2\nEstimate: 1:20:00 (Setup: 0:10:00)\nComments: Race!\nTwitch Channels: h
+ ttp://www.twitch.com/mrcab55 http://www.twitch.com/pikachunarutodude http:
+ //www.twitch.com/cwsatoryu
+LOCATION:http://www.twitch.com/mrcab55\nhttp://www.twitch.com/pikachunarut
+ odude\nhttp://www.twitch.com/cwsatoryu
+ORGANIZER;CN="MrCab, PND, Satoryu":LINK:http://www.twitch.com/MrCab,LINK:h
+ ttp://www.twitch.com/PND,LINK:http://www.twitch.com/Satoryu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Mega Man X2 (Race!) by bjw\, CalebHart42\, cleartonic\, Tro
+ gdor
+DTSTART:20150729T000500Z
+DTEND:20150729T005500Z
+UID:Mega Man X2@gdq
+DESCRIPTION:Game: Mega Man X2\nRunners: bjw\, CalebHart42\, cleartonic\, T
+ rogdor\nConsole: SNES\nEstimate: 0:40:00 (Setup: 0:10:00)\nComments: Race!
+ \nTwitch Channels: http://www.twitch.com/bjw http://www.twitch.com/CalebHa
+ rt42 http://www.twitch.com/cleartonic http://www.twitch.com/Trogdor
+LOCATION:http://www.twitch.com/bjw\nhttp://www.twitch.com/CalebHart42\nhtt
+ p://www.twitch.com/cleartonic\nhttp://www.twitch.com/Trogdor
+ORGANIZER;CN="bjw, CalebHart42, cleartonic, Trogdor":LINK:http://www.twitc
+ h.com/bjw,LINK:http://www.twitch.com/CalebHart42,LINK:http://www.twitch.co
+ m/cleartonic,LINK:http://www.twitch.com/Trogdor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS2] BONUS! Mega Man X3 low% buster only  by Crak_Atak
+DTSTART:20150729T005500Z
+DTEND:20150729T013000Z
+UID:BONUS! Mega Man X3 low% buster only@gdq
+DESCRIPTION:Game: BONUS! Mega Man X3 low% buster only\nRunners: Crak_Atak\
+ nConsole: PS2\nEstimate: 0:30:00 (Setup: 0:05:00)\nCouch Commentators: Tha
+ taintfalco\, SlurpeeNinja\, Plum\nTwitch Channels: http://www.twitch.com/C
+ rak_Atak
+LOCATION:http://www.twitch.com/Crak_Atak
+ORGANIZER;CN=Crak_Atak:LINK:http://www.twitch.com/Crak_Atak
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS2] Mega Man X4 (X 100%) by MopeyJoe
+DTSTART:20150729T013000Z
+DTEND:20150729T023000Z
+UID:Mega Man X4@gdq
+DESCRIPTION:Game: Mega Man X4\nRunners: MopeyJoe\nConsole: PS2\nEstimate: 
+ 0:55:00 (Setup: 0:05:00)\nComments: X 100%\nCouch Commentators: Osra_numbe
+ rs\, Kirbymastah\nTwitch Channels: http://www.twitch.com/MopeyJoe
+LOCATION:http://www.twitch.com/MopeyJoe
+ORGANIZER;CN=MopeyJoe:LINK:http://www.twitch.com/MopeyJoe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[XBox 360] BONUS! Castlevania: Symphony of the Night (Race! Starti
+ ng incentive for any%\, higher incentive for all bosses) by dr4gonblitz\, 
+ romscout
+DTSTART:20150729T023000Z
+DTEND:20150729T031500Z
+UID:BONUS! Castlevania: Symphony of the Night@gdq
+DESCRIPTION:Game: BONUS! Castlevania: Symphony of the Night\nRunners: dr4g
+ onblitz\, romscout\nConsole: XBox 360\nEstimate: 0:40:00 (Setup: 0:05:00)\
+ nComments: Race! Starting incentive for any%\, higher incentive for all bo
+ sses\nTwitch Channels: http://www.twitch.com/dr4gonblitz http://www.twitch
+ .com/romscout
+LOCATION:http://www.twitch.com/dr4gonblitz\nhttp://www.twitch.com/romscout
+ORGANIZER;CN="dr4gonblitz, romscout":LINK:http://www.twitch.com/dr4gonblit
+ z,LINK:http://www.twitch.com/romscout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Gamecube (GBP)] Castlevania: Aria of Sorrow (Julius all bosses\, 
+ incentive for Hard mode) by Dragondarch
+DTSTART:20150729T031500Z
+DTEND:20150729T033500Z
+UID:Castlevania: Aria of Sorrow@gdq
+DESCRIPTION:Game: Castlevania: Aria of Sorrow\nRunners: Dragondarch\nConso
+ le: Gamecube (GBP)\nEstimate: 0:16:00 (Setup: 0:04:00)\nComments: Julius a
+ ll bosses\, incentive for Hard mode\nCouch Commentators: virtualboyness\nT
+ witch Channels: http://www.twitch.com/dragondarchsda
+LOCATION:http://www.twitch.com/dragondarchsda
+ORGANIZER;CN=Dragondarch:LINK:http://www.twitch.com/Dragondarch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DS] Castlevania: Dawn of Sorrow (Bid war\, Soma vs. Julius) by ro
+ mscout
+DTSTART:20150729T033500Z
+DTEND:20150729T043000Z
+UID:Castlevania: Dawn of Sorrow@gdq
+DESCRIPTION:Game: Castlevania: Dawn of Sorrow\nRunners: romscout\nConsole:
+  DS\nEstimate: 0:50:00 (Setup: 0:05:00)\nComments: Bid war\, Soma vs. Juli
+ us\nTwitch Channels: http://www.twitch.com/romscout
+LOCATION:http://www.twitch.com/romscout
+ORGANIZER;CN=romscout:LINK:http://www.twitch.com/romscout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DS] INCENTIVE! Portrait of Ruin glitched run (Incentive for DSvan
+ ia run) by romscout
+DTSTART:20150729T043000Z
+DTEND:20150729T045500Z
+UID:INCENTIVE! Portrait of Ruin glitched run@gdq
+DESCRIPTION:Game: INCENTIVE! Portrait of Ruin glitched run\nRunners: romsc
+ out\nConsole: DS\nEstimate: 0:20:00 (Setup: 0:05:00)\nComments: Incentive 
+ for DSvania run\nTwitch Channels: http://www.twitch.com/romscout
+LOCATION:http://www.twitch.com/romscout
+ORGANIZER;CN=romscout:LINK:http://www.twitch.com/romscout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Ori and the Blind Forest (All Skills run) by Vulajin
+DTSTART:20150729T045500Z
+DTEND:20150729T055000Z
+UID:Ori and the Blind Forest@gdq
+DESCRIPTION:Game: Ori and the Blind Forest\nRunners: Vulajin\nConsole: PC\
+ nEstimate: 0:50:00 (Setup: 0:05:00)\nComments: All Skills run\nCouch Comme
+ ntators: Andy\, TheOurobori\nTwitch Channels: http://www.twitch.com/Vulaji
+ n
+LOCATION:http://www.twitch.com/Vulajin
+ORGANIZER;CN=Vulajin:LINK:http://www.twitch.com/Vulajin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii U] Shantae and the Pirate's Curse (Pirate mode\, incentive fo
+ r All Dark Magic) by TheSoundDefense
+DTSTART:20150729T055000Z
+DTEND:20150729T071000Z
+UID:Shantae and the Pirate's Curse@gdq
+DESCRIPTION:Game: Shantae and the Pirate's Curse\nRunners: TheSoundDefense
+ \nConsole: Wii U\nEstimate: 1:15:00 (Setup: 0:05:00)\nComments: Pirate mod
+ e\, incentive for All Dark Magic\nCouch Commentators: Nosraef\, Tonyogbot\
+ nTwitch Channels: http://www.twitch.com/TheSoundDefense
+LOCATION:http://www.twitch.com/TheSoundDefense
+ORGANIZER;CN=TheSoundDefense:LINK:http://www.twitch.com/TheSoundDefense
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii U] Mighty Switch Force! 2  by TonyOgbot
+DTSTART:20150729T071000Z
+DTEND:20150729T074000Z
+UID:Mighty Switch Force! 2@gdq
+DESCRIPTION:Game: Mighty Switch Force! 2\nRunners: TonyOgbot\nConsole: Wii
+  U\nEstimate: 0:25:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch
+ .com/TonyOgbot
+LOCATION:http://www.twitch.com/TonyOgbot
+ORGANIZER;CN=TonyOgbot:LINK:http://www.twitch.com/TonyOgbot
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Hotline Miami 2: Wrong Number  by Duke_Bilgewater
+DTSTART:20150729T074000Z
+DTEND:20150729T084500Z
+UID:Hotline Miami 2: Wrong Number@gdq
+DESCRIPTION:Game: Hotline Miami 2: Wrong Number\nRunners: Duke_Bilgewater\
+ nConsole: PC\nEstimate: 0:55:00 (Setup: 0:10:00)\nTwitch Channels: http://
+ www.twitch.com/duke_bilgewater
+LOCATION:http://www.twitch.com/duke_bilgewater
+ORGANIZER;CN=Duke_Bilgewater:LINK:http://www.twitch.com/Duke_Bilgewater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Bastion (All Story Levels) by Vulajin
+DTSTART:20150729T084500Z
+DTEND:20150729T094000Z
+UID:Bastion@gdq
+DESCRIPTION:Game: Bastion\nRunners: Vulajin\nConsole: PC\nEstimate: 0:50:0
+ 0 (Setup: 0:05:00)\nComments: All Story Levels\nCouch Commentators: Bubble
+ sDelFuego\, DrTChops\, SnowySnowWolf\nTwitch Channels: http://www.twitch.c
+ om/Vulajin
+LOCATION:http://www.twitch.com/Vulajin
+ORGANIZER;CN=Vulajin:LINK:http://www.twitch.com/Vulajin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PSP] Half-Minute Hero (Hero 30 any%\; incentives for Hero 3 and H
+ ero 300) by Essentia
+DTSTART:20150729T094000Z
+DTEND:20150729T103500Z
+UID:Half-Minute Hero@gdq
+DESCRIPTION:Game: Half-Minute Hero\nRunners: Essentia\nConsole: PSP\nEstim
+ ate: 0:50:00 (Setup: 0:05:00)\nComments: Hero 30 any%\; incentives for Her
+ o 3 and Hero 300\nCouch Commentators: WanderingMind\, Puwexil\, Vulajin\nT
+ witch Channels: http://www.twitch.com/EssentiaFour
+LOCATION:http://www.twitch.com/EssentiaFour
+ORGANIZER;CN=Essentia:LINK:http://www.twitch.com/Essentia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS3] Kingdom Hearts Birth by Sleep FM HD (Critical Difficulty\, L
+ evel 1) by AdamTimothy0
+DTSTART:20150729T103500Z
+DTEND:20150729T120000Z
+UID:Kingdom Hearts Birth by Sleep FM HD@gdq
+DESCRIPTION:Game: Kingdom Hearts Birth by Sleep FM HD\nRunners: AdamTimoth
+ y0\nConsole: PS3\nEstimate: 1:20:00 (Setup: 0:05:00)\nComments: Critical D
+ ifficulty\, Level 1\nTwitch Channels: http://www.twitch.com/AdamTimothy0
+LOCATION:http://www.twitch.com/AdamTimothy0
+ORGANIZER;CN=AdamTimothy0:LINK:http://www.twitch.com/AdamTimothy0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Gamecube (GBP)] Gargoyle's Quest  by unusualcook
+DTSTART:20150729T120000Z
+DTEND:20150729T124500Z
+UID:Gargoyle's Quest@gdq
+DESCRIPTION:Game: Gargoyle's Quest\nRunners: unusualcook\nConsole: Gamecub
+ e (GBP)\nEstimate: 0:40:00 (Setup: 0:05:00)\nTwitch Channels: http://www.t
+ witch.com/unusualcook
+LOCATION:http://www.twitch.com/unusualcook
+ORGANIZER;CN=unusualcook:LINK:http://www.twitch.com/unusualcook
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Gamecube (GBP)] Kirby's Dream Land 2 (Start of Kirby block) by BB
+ QSauz
+DTSTART:20150729T124500Z
+DTEND:20150729T134000Z
+UID:Kirby's Dream Land 2@gdq
+DESCRIPTION:Game: Kirby's Dream Land 2\nRunners: BBQSauz\nConsole: Gamecub
+ e (GBP)\nEstimate: 0:50:00 (Setup: 0:05:00)\nComments: Start of Kirby bloc
+ k\nTwitch Channels: http://www.twitch.com/BBQSauz
+LOCATION:http://www.twitch.com/BBQSauz
+ORGANIZER;CN=BBQSauz:LINK:http://www.twitch.com/BBQSauz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Gamecube (GBP)] Kirby: Tilt N Tumble (Motion sensor game played o
+ n a Gamecube\; incentive for controller cam) by danray2352
+DTSTART:20150729T134000Z
+DTEND:20150729T140500Z
+UID:Kirby: Tilt N Tumble@gdq
+DESCRIPTION:Game: Kirby: Tilt N Tumble\nRunners: danray2352\nConsole: Game
+ cube (GBP)\nEstimate: 0:18:00 (Setup: 0:07:00)\nComments: Motion sensor ga
+ me played on a Gamecube\; incentive for controller cam\nCouch Commentators
+ : kirbymastah\, Mr_Shasta\, Altabiscuit\nTwitch Channels: http://www.twitc
+ h.com/danray2352
+LOCATION:http://www.twitch.com/danray2352
+ORGANIZER;CN=danray2352:LINK:http://www.twitch.com/danray2352
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Kirby Super Star (100%) by usedpizza
+DTSTART:20150729T140500Z
+DTEND:20150729T153000Z
+UID:Kirby Super Star@gdq
+DESCRIPTION:Game: Kirby Super Star\nRunners: usedpizza\nConsole: SNES\nEst
+ imate: 1:20:00 (Setup: 0:05:00)\nComments: 100%\nCouch Commentators: Count
+ down42\nTwitch Channels: http://www.twitch.com/usedpizza
+LOCATION:http://www.twitch.com/usedpizza
+ORGANIZER;CN=usedpizza:LINK:http://www.twitch.com/usedpizza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES or Genesis] Kirby's Avalanche vs. Dr. Robotnik's Mean Bean M
+ achine (Hardest difficulty\, Nintendo vs. Sega bid war) by CosmykTheDolfyn
+DTSTART:20150729T153000Z
+DTEND:20150729T155500Z
+UID:Kirby's Avalanche vs. Dr. Robotnik's Mean Bean Machine@gdq
+DESCRIPTION:Game: Kirby's Avalanche vs. Dr. Robotnik's Mean Bean Machine\n
+ Runners: CosmykTheDolfyn\nConsole: SNES or Genesis\nEstimate: 0:20:00 (Set
+ up: 0:05:00)\nComments: Hardest difficulty\, Nintendo vs. Sega bid war\nCo
+ uch Commentators: CardsOfTheHeart\, Philsoraptor42\, Seckswrecks\nTwitch C
+ hannels: http://www.twitch.com/CosmykTheDolfyn
+LOCATION:http://www.twitch.com/CosmykTheDolfyn
+ORGANIZER;CN=CosmykTheDolfyn:LINK:http://www.twitch.com/CosmykTheDolfyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Genesis] Earthworm Jim  by Athens_
+DTSTART:20150729T155500Z
+DTEND:20150729T163500Z
+UID:Earthworm Jim@gdq
+DESCRIPTION:Game: Earthworm Jim\nRunners: Athens_\nConsole: Genesis\nEstim
+ ate: 0:35:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/Athe
+ ns_
+LOCATION:http://www.twitch.com/Athens_
+ORGANIZER;CN=Athens_:LINK:http://www.twitch.com/Athens_
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Genesis] Ecco: The Tides of Time  by Dolfinh
+DTSTART:20150729T163500Z
+DTEND:20150729T172500Z
+UID:Ecco: The Tides of Time@gdq
+DESCRIPTION:Game: Ecco: The Tides of Time\nRunners: Dolfinh\nConsole: Gene
+ sis\nEstimate: 0:45:00 (Setup: 0:05:00)\nCouch Commentators: CosmykTheDolf
+ yn\nTwitch Channels: http://www.twitch.com/Dolfinht
+LOCATION:http://www.twitch.com/Dolfinht
+ORGANIZER;CN=Dolfinh:LINK:http://www.twitch.com/Dolfinh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii VC] Gunstar Heroes (Co-op\, incentive for Expert mode) by ion
+ gravirei\, TonyOgbot
+DTSTART:20150729T172500Z
+DTEND:20150729T182000Z
+UID:Gunstar Heroes@gdq
+DESCRIPTION:Game: Gunstar Heroes\nRunners: iongravirei\, TonyOgbot\nConsol
+ e: Wii VC\nEstimate: 0:50:00 (Setup: 0:05:00)\nComments: Co-op\, incentive
+  for Expert mode\nTwitch Channels: http://www.twitch.com/iongravirei http:
+ //www.twitch.com/TonyOgbot
+LOCATION:http://www.twitch.com/iongravirei\nhttp://www.twitch.com/TonyOgbo
+ t
+ORGANIZER;CN="iongravirei, TonyOgbot":LINK:http://www.twitch.com/iongravir
+ ei,LINK:http://www.twitch.com/TonyOgbot
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Freedom Planet (Lilac race) by johannhowitzer\, Mylexsi
+DTSTART:20150729T182000Z
+DTEND:20150729T194000Z
+UID:Freedom Planet@gdq
+DESCRIPTION:Game: Freedom Planet\nRunners: johannhowitzer\, Mylexsi\nConso
+ le: PC\nEstimate: 1:05:00 (Setup: 0:15:00)\nComments: Lilac race\nCouch Co
+ mmentators: AlecK47\, Ghoul02\nTwitch Channels: http://www.twitch.com/joha
+ nnhowitzer http://www.twitch.com/Mylexsi
+LOCATION:http://www.twitch.com/johannhowitzer\nhttp://www.twitch.com/Mylex
+ si
+ORGANIZER;CN="johannhowitzer, Mylexsi":LINK:http://www.twitch.com/johannho
+ witzer,LINK:http://www.twitch.com/Mylexsi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Gamecube] Sonic the Hedgehog: Triple Trouble (Sonic run) by berti
+ n
+DTSTART:20150729T194000Z
+DTEND:20150729T201000Z
+UID:Sonic the Hedgehog: Triple Trouble@gdq
+DESCRIPTION:Game: Sonic the Hedgehog: Triple Trouble\nRunners: bertin\nCon
+ sole: Gamecube\nEstimate: 0:25:00 (Setup: 0:05:00)\nComments: Sonic run\nT
+ witch Channels: http://www.twitch.com/sylux98
+LOCATION:http://www.twitch.com/sylux98
+ORGANIZER;CN=bertin:LINK:http://www.twitch.com/bertin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Gamecube (GBP)] Sonic Advance (Amy race) by Combo_Blaze\, kirbyma
+ stah
+DTSTART:20150729T201000Z
+DTEND:20150729T205000Z
+UID:Sonic Advance@gdq
+DESCRIPTION:Game: Sonic Advance\nRunners: Combo_Blaze\, kirbymastah\nConso
+ le: Gamecube (GBP)\nEstimate: 0:25:00 (Setup: 0:15:00)\nComments: Amy race
+ \nTwitch Channels: http://www.twitch.com/Combo_Blaze http://www.twitch.com
+ /kirbymastah
+LOCATION:http://www.twitch.com/Combo_Blaze\nhttp://www.twitch.com/kirbymas
+ tah
+ORGANIZER;CN="Combo_Blaze, kirbymastah":LINK:http://www.twitch.com/Combo_B
+ laze,LINK:http://www.twitch.com/kirbymastah
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Genesis] Sonic the Hedgehog 2 (Race!) by Aleck47\, TheJMatt
+DTSTART:20150729T205000Z
+DTEND:20150729T212500Z
+UID:Sonic the Hedgehog 2@gdq
+DESCRIPTION:Game: Sonic the Hedgehog 2\nRunners: Aleck47\, TheJMatt\nConso
+ le: Genesis\nEstimate: 0:30:00 (Setup: 0:05:00)\nComments: Race!\nCouch Co
+ mmentators: kirbymastah\nTwitch Channels: http://www.twitch.com/Aleck47 ht
+ tp://www.twitch.com/TheJMatt
+LOCATION:http://www.twitch.com/Aleck47\nhttp://www.twitch.com/TheJMatt
+ORGANIZER;CN="Aleck47, TheJMatt":LINK:http://www.twitch.com/Aleck47,LINK:h
+ ttp://www.twitch.com/TheJMatt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[3DS] Legend of Zelda: Majora's Mask 3D  by NOUFozzy
+DTSTART:20150729T212500Z
+DTEND:20150729T234500Z
+UID:Legend of Zelda: Majora's Mask 3D@gdq
+DESCRIPTION:Game: Legend of Zelda: Majora's Mask 3D\nRunners: NOUFozzy\nCo
+ nsole: 3DS\nEstimate: 2:15:00 (Setup: 0:05:00)\nTwitch Channels: http://ww
+ w.twitch.com/NOUFozzy
+LOCATION:http://www.twitch.com/NOUFozzy
+ORGANIZER;CN=NOUFozzy:LINK:http://www.twitch.com/NOUFozzy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] BONUS! The Legend of Zelda\, swordless (We'll see just how d
+ angerous it is to go alone\, old man.) by jkoper
+DTSTART:20150729T234500Z
+DTEND:20150730T010000Z
+UID:BONUS! The Legend of Zelda\, swordless@gdq
+DESCRIPTION:Game: BONUS! The Legend of Zelda\, swordless\nRunners: jkoper\
+ nConsole: NES\nEstimate: 1:05:00 (Setup: 0:10:00)\nComments: We'll see jus
+ t how dangerous it is to go alone\, old man.\nCouch Commentators: LackAtta
+ ck24\, Darkwing Duck\nTwitch Channels: http://www.twitch.com/jkoper
+LOCATION:http://www.twitch.com/jkoper
+ORGANIZER;CN=jkoper:LINK:http://www.twitch.com/jkoper
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Earthbound  by Aurilliux
+DTSTART:20150730T010000Z
+DTEND:20150730T030000Z
+UID:Earthbound@gdq
+DESCRIPTION:Game: Earthbound\nRunners: Aurilliux\nConsole: SNES\nEstimate:
+  1:55:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/Aurilliu
+ x
+LOCATION:http://www.twitch.com/Aurilliux
+ORGANIZER;CN=Aurilliux:LINK:http://www.twitch.com/Aurilliux
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Prince of Persia: Sands of Time  by Henneko_
+DTSTART:20150730T030000Z
+DTEND:20150730T042500Z
+UID:Prince of Persia: Sands of Time@gdq
+DESCRIPTION:Game: Prince of Persia: Sands of Time\nRunners: Henneko_\nCons
+ ole: PC\nEstimate: 1:20:00 (Setup: 0:05:00)\nTwitch Channels: http://www.t
+ witch.com/Henneko_
+LOCATION:http://www.twitch.com/Henneko_
+ORGANIZER;CN=Henneko_:LINK:http://www.twitch.com/Henneko_
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Deus Ex: Human Revolution  by Heinki
+DTSTART:20150730T042500Z
+DTEND:20150730T053000Z
+UID:Deus Ex: Human Revolution@gdq
+DESCRIPTION:Game: Deus Ex: Human Revolution\nRunners: Heinki\nConsole: PC\
+ nEstimate: 1:00:00 (Setup: 0:05:00)\nCouch Commentators: Snowysnowwolf\, C
+ irno_tv\, Puri_puri\, DrTChops\nTwitch Channels: http://www.twitch.com/Hei
+ nki
+LOCATION:http://www.twitch.com/Heinki
+ORGANIZER;CN=Heinki:LINK:http://www.twitch.com/Heinki
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Xbox] Hello Kitty: Roller Rescue (Start of Silly Games Done Quick
+ ) by GamerDomey
+DTSTART:20150730T053000Z
+DTEND:20150730T061000Z
+UID:Hello Kitty: Roller Rescue@gdq
+DESCRIPTION:Game: Hello Kitty: Roller Rescue\nRunners: GamerDomey\nConsole
+ : Xbox\nEstimate: 0:37:00 (Setup: 0:03:00)\nComments: Start of Silly Games
+  Done Quick\nTwitch Channels: http://www.twitch.com/GamerDomey
+LOCATION:http://www.twitch.com/GamerDomey
+ORGANIZER;CN=GamerDomey:LINK:http://www.twitch.com/GamerDomey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Famicom] Samurai Pizza Cats (Just as hype (if not even more inten
+ se) than any race you've ever seen) by usedpizza\, Trogdor
+DTSTART:20150730T061000Z
+DTEND:20150730T063500Z
+UID:Samurai Pizza Cats@gdq
+DESCRIPTION:Game: Samurai Pizza Cats\nRunners: usedpizza\, Trogdor\nConsol
+ e: Famicom\nEstimate: 0:15:00 (Setup: 0:10:00)\nComments: Just as hype (if
+  not even more intense) than any race you've ever seen\nTwitch Channels: h
+ ttp://www.twitch.com/usedpizza http://www.twitch.com/Trogdor
+LOCATION:http://www.twitch.com/usedpizza\nhttp://www.twitch.com/Trogdor
+ORGANIZER;CN="usedpizza, Trogdor":LINK:http://www.twitch.com/usedpizza,LIN
+ K:http://www.twitch.com/Trogdor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Panic Restaurant  by EggmaniMN
+DTSTART:20150730T063500Z
+DTEND:20150730T065500Z
+UID:Panic Restaurant@gdq
+DESCRIPTION:Game: Panic Restaurant\nRunners: EggmaniMN\nConsole: NES\nEsti
+ mate: 0:16:00 (Setup: 0:04:00)\nTwitch Channels: http://www.twitch.com/Egg
+ maniMN
+LOCATION:http://www.twitch.com/EggmaniMN
+ORGANIZER;CN=EggmaniMN:LINK:http://www.twitch.com/EggmaniMN
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Famicom] Kid Niki 2  by infinitemystery
+DTSTART:20150730T065500Z
+DTEND:20150730T071500Z
+UID:Kid Niki 2@gdq
+DESCRIPTION:Game: Kid Niki 2\nRunners: infinitemystery\nConsole: Famicom\n
+ Estimate: 0:15:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com
+ /infinitemystery
+LOCATION:http://www.twitch.com/infinitemystery
+ORGANIZER;CN=infinitemystery:LINK:http://www.twitch.com/infinitemystery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Genesis] Chester Cheetah: Wild Wild Quest  by SecksWrecks
+DTSTART:20150730T071500Z
+DTEND:20150730T073500Z
+UID:Chester Cheetah: Wild Wild Quest@gdq
+DESCRIPTION:Game: Chester Cheetah: Wild Wild Quest\nRunners: SecksWrecks\n
+ Console: Genesis\nEstimate: 0:15:00 (Setup: 0:05:00)\nCouch Commentators: 
+ vulz\, Trihex\, TonyOgbot\nTwitch Channels: http://www.twitch.com/SecksWre
+ cks
+LOCATION:http://www.twitch.com/SecksWrecks
+ORGANIZER;CN=SecksWrecks:LINK:http://www.twitch.com/SecksWrecks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N64] Space Station Silicon Valley  by mcill
+DTSTART:20150730T073500Z
+DTEND:20150730T090500Z
+UID:Space Station Silicon Valley@gdq
+DESCRIPTION:Game: Space Station Silicon Valley\nRunners: mcill\nConsole: N
+ 64\nEstimate: 1:25:00 (Setup: 0:05:00)\nCouch Commentators: mashystrr\nTwi
+ tch Channels: http://www.twitch.com/mcill
+LOCATION:http://www.twitch.com/mcill
+ORGANIZER;CN=mcill:LINK:http://www.twitch.com/mcill
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS2] Stretch Panic (Incentive for 2 players\, 1 controller) by Ca
+ vemanDCJ\, iongravirei
+DTSTART:20150730T090500Z
+DTEND:20150730T094500Z
+UID:Stretch Panic@gdq
+DESCRIPTION:Game: Stretch Panic\nRunners: CavemanDCJ\, iongravirei\nConsol
+ e: PS2\nEstimate: 0:35:00 (Setup: 0:05:00)\nComments: Incentive for 2 play
+ ers\, 1 controller\nTwitch Channels: http://www.twitch.com/CavemanDCJ http
+ ://www.twitch.com/iongravirei
+LOCATION:http://www.twitch.com/CavemanDCJ\nhttp://www.twitch.com/iongravir
+ ei
+ORGANIZER;CN="CavemanDCJ, iongravirei":LINK:http://www.twitch.com/CavemanD
+ CJ,LINK:http://www.twitch.com/iongravirei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Roundabout (All Cutscenes) by Studio
+DTSTART:20150730T094500Z
+DTEND:20150730T104500Z
+UID:Roundabout@gdq
+DESCRIPTION:Game: Roundabout\nRunners: Studio\nConsole: PC\nEstimate: 0:55
+ :00 (Setup: 0:05:00)\nComments: All Cutscenes\nCouch Commentators: Jeffrey
+  the Skeleton\nTwitch Channels: http://www.twitch.com/sovietwaffle
+LOCATION:http://www.twitch.com/sovietwaffle
+ORGANIZER;CN=Studio:LINK:http://www.twitch.com/Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Very old hardware] BONUS! Oregon Trail (Potential end of Silly Ga
+ mes Done Quick) by Skybilz
+DTSTART:20150730T104500Z
+DTEND:20150730T111000Z
+UID:BONUS! Oregon Trail@gdq
+DESCRIPTION:Game: BONUS! Oregon Trail\nRunners: Skybilz\nConsole: Very old
+  hardware\nEstimate: 0:15:00 (Setup: 0:10:00)\nComments: Potential end of 
+ Silly Games Done Quick\nCouch Commentators: Authorblues\, LackAttack24\nTw
+ itch Channels: http://www.twitch.com/Skybilz
+LOCATION:http://www.twitch.com/Skybilz
+ORGANIZER;CN=Skybilz:LINK:http://www.twitch.com/Skybilz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] [Touhou] Marisa and Alice's Trap Tower (Start of Touhou block
+ ) by PinkPajamas
+DTSTART:20150730T111000Z
+DTEND:20150730T115500Z
+UID:[Touhou] Marisa and Alice's Trap Tower@gdq
+DESCRIPTION:Game: [Touhou] Marisa and Alice's Trap Tower\nRunners: PinkPaj
+ amas\nConsole: PC\nEstimate: 0:40:00 (Setup: 0:05:00)\nComments: Start of 
+ Touhou block\nTwitch Channels: http://www.twitch.com/PinkPajamas
+LOCATION:http://www.twitch.com/PinkPajamas
+ORGANIZER;CN=PinkPajamas:LINK:http://www.twitch.com/PinkPajamas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] [Touhou] Youyou Kengeki Musou (End of Touhou block) by Sent
+DTSTART:20150730T115500Z
+DTEND:20150730T121500Z
+UID:[Touhou] Youyou Kengeki Musou@gdq
+DESCRIPTION:Game: [Touhou] Youyou Kengeki Musou\nRunners: Sent\nConsole: P
+ C\nEstimate: 0:16:00 (Setup: 0:04:00)\nComments: End of Touhou block\nTwit
+ ch Channels: http://www.twitch.com/Dragonsentinal
+LOCATION:http://www.twitch.com/Dragonsentinal
+ORGANIZER;CN=Sent:LINK:http://www.twitch.com/Sent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] F.E.A.R.  by Bl00d_Thunder
+DTSTART:20150730T121500Z
+DTEND:20150730T132500Z
+UID:F.E.A.R.@gdq
+DESCRIPTION:Game: F.E.A.R.\nRunners: Bl00d_Thunder\nConsole: PC\nEstimate:
+  1:00:00 (Setup: 0:10:00)\nTwitch Channels: http://www.twitch.com/Bl00d_Th
+ under
+LOCATION:http://www.twitch.com/Bl00d_Thunder
+ORGANIZER;CN=Bl00d_Thunder:LINK:http://www.twitch.com/Bl00d_Thunder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] The Wheel of TIme  by Shaddex
+DTSTART:20150730T132500Z
+DTEND:20150730T135000Z
+UID:The Wheel of TIme@gdq
+DESCRIPTION:Game: The Wheel of TIme\nRunners: Shaddex\nConsole: PC\nEstima
+ te: 0:20:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/Shadd
+ ex
+LOCATION:http://www.twitch.com/Shaddex
+ORGANIZER;CN=Shaddex:LINK:http://www.twitch.com/Shaddex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Unreal  by Cubeface
+DTSTART:20150730T135000Z
+DTEND:20150730T145000Z
+UID:Unreal@gdq
+DESCRIPTION:Game: Unreal\nRunners: Cubeface\nConsole: PC\nEstimate: 0:55:0
+ 0 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/Cubeface21
+LOCATION:http://www.twitch.com/Cubeface21
+ORGANIZER;CN=Cubeface:LINK:http://www.twitch.com/Cubeface
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Doom: Scythe (UV-Speed) by Dime
+DTSTART:20150730T145000Z
+DTEND:20150730T152500Z
+UID:Doom: Scythe@gdq
+DESCRIPTION:Game: Doom: Scythe\nRunners: Dime\nConsole: PC\nEstimate: 0:27
+ :00 (Setup: 0:08:00)\nComments: UV-Speed\nTwitch Channels: http://www.twit
+ ch.com/kingdime
+LOCATION:http://www.twitch.com/kingdime
+ORGANIZER;CN=Dime:LINK:http://www.twitch.com/Dime
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Spear of Destiny (IADI-Speed (hardest%)) by Capnclever
+DTSTART:20150730T152500Z
+DTEND:20150730T160000Z
+UID:Spear of Destiny@gdq
+DESCRIPTION:Game: Spear of Destiny\nRunners: Capnclever\nConsole: PC\nEsti
+ mate: 0:30:00 (Setup: 0:05:00)\nComments: IADI-Speed (hardest%)\nTwitch Ch
+ annels: http://www.twitch.com/Capnclever
+LOCATION:http://www.twitch.com/Capnclever
+ORGANIZER;CN=Capnclever:LINK:http://www.twitch.com/Capnclever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Super Noah's Ark 3D (Episodes 1+2\, Hard) by Cubeface
+DTSTART:20150730T160000Z
+DTEND:20150730T161500Z
+UID:Super Noah's Ark 3D@gdq
+DESCRIPTION:Game: Super Noah's Ark 3D\nRunners: Cubeface\nConsole: PC\nEst
+ imate: 0:10:00 (Setup: 0:05:00)\nComments: Episodes 1+2\, Hard\nTwitch Cha
+ nnels: http://www.twitch.com/Cubeface21
+LOCATION:http://www.twitch.com/Cubeface21
+ORGANIZER;CN=Cubeface:LINK:http://www.twitch.com/Cubeface
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Quantum Conundrum (Incentive for All Collectibles) by Bl00d_T
+ hunder
+DTSTART:20150730T161500Z
+DTEND:20150730T171000Z
+UID:Quantum Conundrum@gdq
+DESCRIPTION:Game: Quantum Conundrum\nRunners: Bl00d_Thunder\nConsole: PC\n
+ Estimate: 0:50:00 (Setup: 0:05:00)\nComments: Incentive for All Collectibl
+ es\nTwitch Channels: http://www.twitch.com/Bl00d_Thunder
+LOCATION:http://www.twitch.com/Bl00d_Thunder
+ORGANIZER;CN=Bl00d_Thunder:LINK:http://www.twitch.com/Bl00d_Thunder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Castlevania II: Simon's Quest  by Jaguar_King
+DTSTART:20150730T171000Z
+DTEND:20150730T175500Z
+UID:Castlevania II: Simon's Quest@gdq
+DESCRIPTION:Game: Castlevania II: Simon's Quest\nRunners: Jaguar_King\nCon
+ sole: NES\nEstimate: 0:40:00 (Setup: 0:05:00)\nCouch Commentators: Furious
+ Paul\, Kissmyafrocard\nTwitch Channels: http://www.twitch.com/Jaguar_King
+LOCATION:http://www.twitch.com/Jaguar_King
+ORGANIZER;CN=Jaguar_King:LINK:http://www.twitch.com/Jaguar_King
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Super Castlevania IV  by FuriousPaul
+DTSTART:20150730T175500Z
+DTEND:20150730T184000Z
+UID:Super Castlevania IV@gdq
+DESCRIPTION:Game: Super Castlevania IV\nRunners: FuriousPaul\nConsole: SNE
+ S\nEstimate: 0:40:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.
+ com/FuriousPaul
+LOCATION:http://www.twitch.com/FuriousPaul
+ORGANIZER;CN=FuriousPaul:LINK:http://www.twitch.com/FuriousPaul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii VC] Castlevania: Rondo of Blood  by Klaige
+DTSTART:20150730T184000Z
+DTEND:20150730T191500Z
+UID:Castlevania: Rondo of Blood@gdq
+DESCRIPTION:Game: Castlevania: Rondo of Blood\nRunners: Klaige\nConsole: W
+ ii VC\nEstimate: 0:30:00 (Setup: 0:05:00)\nCouch Commentators: PJ\, MechaR
+ ichter\, MURPHAGATOR!\, Satoryu\nTwitch Channels: http://www.twitch.com/Kl
+ aige
+LOCATION:http://www.twitch.com/Klaige
+ORGANIZER;CN=Klaige:LINK:http://www.twitch.com/Klaige
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] BONUS! Shovel Knight low% (shovel only) (Yes\, this is actual
+ ly possible) by MunchaKoopas
+DTSTART:20150730T191500Z
+DTEND:20150730T202000Z
+UID:BONUS! Shovel Knight low% (shovel only)@gdq
+DESCRIPTION:Game: BONUS! Shovel Knight low% (shovel only)\nRunners: Muncha
+ Koopas\nConsole: PC\nEstimate: 0:55:00 (Setup: 0:10:00)\nComments: Yes\, t
+ his is actually possible\nCouch Commentators: The RSS Feed\, Kaahlan\, Vul
+ ajin\, Twinge\nTwitch Channels: http://www.twitch.com/MunchaKoopas
+LOCATION:http://www.twitch.com/MunchaKoopas
+ORGANIZER;CN=MunchaKoopas:LINK:http://www.twitch.com/MunchaKoopas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Rockman 3 Burst Chaser  by Iceplug
+DTSTART:20150730T202000Z
+DTEND:20150730T210000Z
+UID:Rockman 3 Burst Chaser@gdq
+DESCRIPTION:Game: Rockman 3 Burst Chaser\nRunners: Iceplug\nConsole: NES\n
+ Estimate: 0:35:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com
+ /Iceplug
+LOCATION:http://www.twitch.com/Iceplug
+ORGANIZER;CN=Iceplug:LINK:http://www.twitch.com/Iceplug
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Genesis] Mega Man: The Wily Wars (Wily Tower run) by TheSiege
+DTSTART:20150730T210000Z
+DTEND:20150730T212500Z
+UID:Mega Man: The Wily Wars@gdq
+DESCRIPTION:Game: Mega Man: The Wily Wars\nRunners: TheSiege\nConsole: Gen
+ esis\nEstimate: 0:20:00 (Setup: 0:05:00)\nComments: Wily Tower run\nTwitch
+  Channels: http://www.twitch.com/cjjensen
+LOCATION:http://www.twitch.com/cjjensen
+ORGANIZER;CN=TheSiege:LINK:http://www.twitch.com/TheSiege
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Mega Man 4 (Race!) by almondcity\, Chelney
+DTSTART:20150730T212500Z
+DTEND:20150730T222000Z
+UID:Mega Man 4@gdq
+DESCRIPTION:Game: Mega Man 4\nRunners: almondcity\, Chelney\nConsole: NES\
+ nEstimate: 0:45:00 (Setup: 0:10:00)\nComments: Race!\nCouch Commentators: 
+ Duckfist\, cleartonic\nTwitch Channels: http://www.twitch.com/almondcity h
+ ttp://www.twitch.com/chelney1
+LOCATION:http://www.twitch.com/almondcity\nhttp://www.twitch.com/chelney1
+ORGANIZER;CN="almondcity, Chelney":LINK:http://www.twitch.com/almondcity,L
+ INK:http://www.twitch.com/Chelney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii] Mega Man 10 (Incentive for Hard mode) by usedpizza
+DTSTART:20150730T222000Z
+DTEND:20150730T230500Z
+UID:Mega Man 10@gdq
+DESCRIPTION:Game: Mega Man 10\nRunners: usedpizza\nConsole: Wii\nEstimate:
+  0:42:00 (Setup: 0:03:00)\nComments: Incentive for Hard mode\nTwitch Chann
+ els: http://www.twitch.com/usedpizza
+LOCATION:http://www.twitch.com/usedpizza
+ORGANIZER;CN=usedpizza:LINK:http://www.twitch.com/usedpizza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Mega Man & Bass (a.k.a. Rockman & Forte) (Bid war\, Mega Ma
+ n vs. Bass\; end of classic Mega Man block) by cleartonic
+DTSTART:20150730T230500Z
+DTEND:20150730T235000Z
+UID:Mega Man & Bass (a.k.a. Rockman & Forte)@gdq
+DESCRIPTION:Game: Mega Man & Bass (a.k.a. Rockman & Forte)\nRunners: clear
+ tonic\nConsole: SNES\nEstimate: 0:42:00 (Setup: 0:03:00)\nComments: Bid wa
+ r\, Mega Man vs. Bass\; end of classic Mega Man block\nTwitch Channels: ht
+ tp://www.twitch.com/cleartonic
+LOCATION:http://www.twitch.com/cleartonic
+ORGANIZER;CN=cleartonic:LINK:http://www.twitch.com/cleartonic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[XBox One] Halo 3 (Incentive for Legendary difficulty) by TheBlaze
+ Jp
+DTSTART:20150730T235000Z
+DTEND:20150731T015000Z
+UID:Halo 3@gdq
+DESCRIPTION:Game: Halo 3\nRunners: TheBlazeJp\nConsole: XBox One\nEstimate
+ : 1:52:00 (Setup: 0:08:00)\nComments: Incentive for Legendary difficulty\n
+ Couch Commentators: z1mb0bw4y\, Blackfiresin
+ORGANIZER;CN=TheBlazeJp:LINK:http://www.twitch.com/TheBlazeJp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii VC] Legend of Zelda: Ocarina of Time  by Jodenstone
+DTSTART:20150731T015000Z
+DTEND:20150731T022000Z
+UID:Legend of Zelda: Ocarina of Time@gdq
+DESCRIPTION:Game: Legend of Zelda: Ocarina of Time\nRunners: Jodenstone\nC
+ onsole: Wii VC\nEstimate: 0:25:00 (Setup: 0:05:00)\nTwitch Channels: http:
+ //www.twitch.com/Jodenstone
+LOCATION:http://www.twitch.com/Jodenstone
+ORGANIZER;CN=Jodenstone:LINK:http://www.twitch.com/Jodenstone
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N64] Wave Race 64 (Championship Expert) by Shibbypod
+DTSTART:20150731T022000Z
+DTEND:20150731T024000Z
+UID:Wave Race 64@gdq
+DESCRIPTION:Game: Wave Race 64\nRunners: Shibbypod\nConsole: N64\nEstimate
+ : 0:15:00 (Setup: 0:05:00)\nComments: Championship Expert\nTwitch Channels
+ : http://www.twitch.com/Shibbypod
+LOCATION:http://www.twitch.com/Shibbypod
+ORGANIZER;CN=Shibbypod:LINK:http://www.twitch.com/Shibbypod
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N64] Mario Kart 64 (150cc All Cups) by abney317
+DTSTART:20150731T024000Z
+DTEND:20150731T033000Z
+UID:Mario Kart 64@gdq
+DESCRIPTION:Game: Mario Kart 64\nRunners: abney317\nConsole: N64\nEstimate
+ : 0:45:00 (Setup: 0:05:00)\nComments: 150cc All Cups\nTwitch Channels: htt
+ p://www.twitch.com/abney317
+LOCATION:http://www.twitch.com/abney317
+ORGANIZER;CN=abney317:LINK:http://www.twitch.com/abney317
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N64] Doom 64  by Grav
+DTSTART:20150731T033000Z
+DTEND:20150731T042000Z
+UID:Doom 64@gdq
+DESCRIPTION:Game: Doom 64\nRunners: Grav\nConsole: N64\nEstimate: 0:40:00 
+ (Setup: 0:10:00)\nTwitch Channels: http://www.twitch.com/Grav
+LOCATION:http://www.twitch.com/Grav
+ORGANIZER;CN=Grav:LINK:http://www.twitch.com/Grav
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N64] Banjo-Tooie  by kaptainkohl
+DTSTART:20150731T042000Z
+DTEND:20150731T052500Z
+UID:Banjo-Tooie@gdq
+DESCRIPTION:Game: Banjo-Tooie\nRunners: kaptainkohl\nConsole: N64\nEstimat
+ e: 1:00:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.com/kaptai
+ nkohl
+LOCATION:http://www.twitch.com/kaptainkohl
+ORGANIZER;CN=kaptainkohl:LINK:http://www.twitch.com/kaptainkohl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii U VC] Donkey Kong 64 (No Levels Early) by 2dos
+DTSTART:20150731T052500Z
+DTEND:20150731T080500Z
+UID:Donkey Kong 64@gdq
+DESCRIPTION:Game: Donkey Kong 64\nRunners: 2dos\nConsole: Wii U VC\nEstima
+ te: 2:35:00 (Setup: 0:05:00)\nComments: No Levels Early\nCouch Commentator
+ s: altabiscuit\, Ciyon\nTwitch Channels: http://www.twitch.com/2dos
+LOCATION:http://www.twitch.com/2dos
+ORGANIZER;CN=2dos:LINK:http://www.twitch.com/2dos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii U VC] Mario & Luigi: Superstar Saga  by altabiscuit
+DTSTART:20150731T080500Z
+DTEND:20150731T095000Z
+UID:Mario & Luigi: Superstar Saga@gdq
+DESCRIPTION:Game: Mario & Luigi: Superstar Saga\nRunners: altabiscuit\nCon
+ sole: Wii U VC\nEstimate: 1:40:00 (Setup: 0:05:00)\nCouch Commentators: 2d
+ os\, Dragondarch\, AlbinoAlbatross\nTwitch Channels: http://www.twitch.com
+ /altabiscuit
+LOCATION:http://www.twitch.com/altabiscuit
+ORGANIZER;CN=altabiscuit:LINK:http://www.twitch.com/altabiscuit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Saints Row: Gat out of Hell  by BystanderTim
+DTSTART:20150731T095000Z
+DTEND:20150731T111000Z
+UID:Saints Row: Gat out of Hell@gdq
+DESCRIPTION:Game: Saints Row: Gat out of Hell\nRunners: BystanderTim\nCons
+ ole: PC\nEstimate: 1:10:00 (Setup: 0:10:00)\nCouch Commentators: Cirno\, M
+ olluskMoth\, Mr_Shasta\, BubblesDelFuego\nTwitch Channels: http://www.twit
+ ch.com/bystandertimgames
+LOCATION:http://www.twitch.com/bystandertimgames
+ORGANIZER;CN=BystanderTim:LINK:http://www.twitch.com/BystanderTim
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Super Turrican (Hard mode) by ShinerCCC
+DTSTART:20150731T111000Z
+DTEND:20150731T113500Z
+UID:Super Turrican@gdq
+DESCRIPTION:Game: Super Turrican\nRunners: ShinerCCC\nConsole: SNES\nEstim
+ ate: 0:20:00 (Setup: 0:05:00)\nComments: Hard mode\nCouch Commentators: Dr
+ agondarch\nTwitch Channels: http://www.twitch.com/ShinerCCC
+LOCATION:http://www.twitch.com/ShinerCCC
+ORGANIZER;CN=ShinerCCC:LINK:http://www.twitch.com/ShinerCCC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Zombies Ate My Neighbors  by lurkchan
+DTSTART:20150731T113500Z
+DTEND:20150731T122500Z
+UID:Zombies Ate My Neighbors@gdq
+DESCRIPTION:Game: Zombies Ate My Neighbors\nRunners: lurkchan\nConsole: SN
+ ES\nEstimate: 0:45:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch
+ .com/lurkchan
+LOCATION:http://www.twitch.com/lurkchan
+ORGANIZER;CN=lurkchan:LINK:http://www.twitch.com/lurkchan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Cave Story (Best Ending) by draculantern
+DTSTART:20150731T122500Z
+DTEND:20150731T134000Z
+UID:Cave Story@gdq
+DESCRIPTION:Game: Cave Story\nRunners: draculantern\nConsole: PC\nEstimate
+ : 1:10:00 (Setup: 0:05:00)\nComments: Best Ending\nTwitch Channels: http:/
+ /www.twitch.com/draculantern
+LOCATION:http://www.twitch.com/draculantern
+ORGANIZER;CN=draculantern:LINK:http://www.twitch.com/draculantern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[XBox 360] Bionic Commando: Rearmed 2 (Incentive for 100%) by PJ
+DTSTART:20150731T134000Z
+DTEND:20150731T152500Z
+UID:Bionic Commando: Rearmed 2@gdq
+DESCRIPTION:Game: Bionic Commando: Rearmed 2\nRunners: PJ\nConsole: XBox 3
+ 60\nEstimate: 1:40:00 (Setup: 0:05:00)\nComments: Incentive for 100%\nCouc
+ h Commentators: MURPHAGATOR!\, Satoryu\nTwitch Channels: http://www.twitch
+ .com/pjdicesare
+LOCATION:http://www.twitch.com/pjdicesare
+ORGANIZER;CN=PJ:LINK:http://www.twitch.com/PJ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Fallout  by DrTChops
+DTSTART:20150731T152500Z
+DTEND:20150731T155000Z
+UID:Fallout@gdq
+DESCRIPTION:Game: Fallout\nRunners: DrTChops\nConsole: PC\nEstimate: 0:15:
+ 00 (Setup: 0:10:00)\nCouch Commentators: DrTChops\nTwitch Channels: http:/
+ /www.twitch.com/DrTChops
+LOCATION:http://www.twitch.com/DrTChops
+ORGANIZER;CN=DrTChops:LINK:http://www.twitch.com/DrTChops
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Fallout 3  by BubblesDelFuego
+DTSTART:20150731T155000Z
+DTEND:20150731T162000Z
+UID:Fallout 3@gdq
+DESCRIPTION:Game: Fallout 3\nRunners: BubblesDelFuego\nConsole: PC\nEstima
+ te: 0:23:00 (Setup: 0:07:00)\nTwitch Channels: http://www.twitch.com/Bubbl
+ esDelFuego
+LOCATION:http://www.twitch.com/BubblesDelFuego
+ORGANIZER;CN=BubblesDelFuego:LINK:http://www.twitch.com/BubblesDelFuego
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Elder Scrolls IV: Oblivion (No out of bounds) by BubblesDelFu
+ ego
+DTSTART:20150731T162000Z
+DTEND:20150731T172500Z
+UID:Elder Scrolls IV: Oblivion@gdq
+DESCRIPTION:Game: Elder Scrolls IV: Oblivion\nRunners: BubblesDelFuego\nCo
+ nsole: PC\nEstimate: 0:55:00 (Setup: 0:10:00)\nComments: No out of bounds\
+ nCouch Commentators: TheFunCannon\, Puri_Puri\, DrTChops\, AlbinoAlbatross
+ \nTwitch Channels: http://www.twitch.com/BubblesDelFuego
+LOCATION:http://www.twitch.com/BubblesDelFuego
+ORGANIZER;CN=BubblesDelFuego:LINK:http://www.twitch.com/BubblesDelFuego
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Dustforce DX  by Calistus
+DTSTART:20150731T172500Z
+DTEND:20150731T182000Z
+UID:Dustforce DX@gdq
+DESCRIPTION:Game: Dustforce DX\nRunners: Calistus\nConsole: PC\nEstimate: 
+ 0:50:00 (Setup: 0:05:00)\nCouch Commentators: altabiscuit\, Vulajin\, side
+ showdave\nTwitch Channels: http://www.twitch.com/Calistus
+LOCATION:http://www.twitch.com/Calistus
+ORGANIZER;CN=Calistus:LINK:http://www.twitch.com/Calistus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Wings of Vi (Mortal/Purified any%) by Shark3143
+DTSTART:20150731T182000Z
+DTEND:20150731T191500Z
+UID:Wings of Vi@gdq
+DESCRIPTION:Game: Wings of Vi\nRunners: Shark3143\nConsole: PC\nEstimate: 
+ 0:50:00 (Setup: 0:05:00)\nComments: Mortal/Purified any%\nCouch Commentato
+ rs: faux_show\, Cirno_TV\nTwitch Channels: http://www.twitch.com/Shark3143
+LOCATION:http://www.twitch.com/Shark3143
+ORGANIZER;CN=Shark3143:LINK:http://www.twitch.com/Shark3143
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] BONUS! I Wanna be the Boshy  by witwix
+DTSTART:20150731T191500Z
+DTEND:20150731T200000Z
+UID:BONUS! I Wanna be the Boshy@gdq
+DESCRIPTION:Game: BONUS! I Wanna be the Boshy\nRunners: witwix\nConsole: P
+ C\nEstimate: 0:40:00 (Setup: 0:05:00)\nTwitch Channels: http://www.twitch.
+ com/witwix
+LOCATION:http://www.twitch.com/witwix
+ORGANIZER;CN=witwix:LINK:http://www.twitch.com/witwix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Binding of Isaac: Rebirth (Azazel run\, incentive for Eden ru
+ n) by Slackaholicus
+DTSTART:20150731T200000Z
+DTEND:20150731T203500Z
+UID:Binding of Isaac: Rebirth@gdq
+DESCRIPTION:Game: Binding of Isaac: Rebirth\nRunners: Slackaholicus\nConso
+ le: PC\nEstimate: 0:25:00 (Setup: 0:10:00)\nComments: Azazel run\, incenti
+ ve for Eden run\nCouch Commentators: sagev3\, BubblesDelFuego\, Twinge\nTw
+ itch Channels: http://www.twitch.com/Slackaholicus
+LOCATION:http://www.twitch.com/Slackaholicus
+ORGANIZER;CN=Slackaholicus:LINK:http://www.twitch.com/Slackaholicus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Kid Icarus  by Darkwing Duck
+DTSTART:20150731T203500Z
+DTEND:20150731T211500Z
+UID:Kid Icarus@gdq
+DESCRIPTION:Game: Kid Icarus\nRunners: Darkwing Duck\nConsole: NES\nEstima
+ te: 0:35:00 (Setup: 0:05:00)\nCouch Commentators: LackAttack24\nTwitch Cha
+ nnels: http://www.twitch.com/darkwing_duck_sda
+LOCATION:http://www.twitch.com/darkwing_duck_sda
+ORGANIZER;CN=DarkwingDuck:LINK:http://www.twitch.com/DarkwingDuck
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Super Mario Bros: The Lost Levels (Warpless Luigi\, Worlds 
+ 1 through D) by GameJ06
+DTSTART:20150731T211500Z
+DTEND:20150731T221000Z
+UID:Super Mario Bros: The Lost Levels@gdq
+DESCRIPTION:Game: Super Mario Bros: The Lost Levels\nRunners: GameJ06\nCon
+ sole: SNES\nEstimate: 0:50:00 (Setup: 0:05:00)\nComments: Warpless Luigi\,
+  Worlds 1 through D\nTwitch Channels: http://www.twitch.com/GameJ06
+LOCATION:http://www.twitch.com/GameJ06
+ORGANIZER;CN=GameJ06:LINK:http://www.twitch.com/GameJ06
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] Super Mario Bros. 3 (Warpless race\, incentive for 100%) by 
+ cujoihsv\, whenchukattacks
+DTSTART:20150731T221000Z
+DTEND:20150731T234000Z
+UID:Super Mario Bros. 3@gdq
+DESCRIPTION:Game: Super Mario Bros. 3\nRunners: cujoihsv\, whenchukattacks
+ \nConsole: NES\nEstimate: 1:20:00 (Setup: 0:10:00)\nComments: Warpless rac
+ e\, incentive for 100%\nCouch Commentators: Aweglib\, Skybilz\nTwitch Chan
+ nels: http://www.twitch.com/cujoihsv http://www.twitch.com/whenchukattacks
+LOCATION:http://www.twitch.com/cujoihsv\nhttp://www.twitch.com/whenchukatt
+ acks
+ORGANIZER;CN="cujoihsv, whenchukattacks":LINK:http://www.twitch.com/cujoih
+ sv,LINK:http://www.twitch.com/whenchukattacks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii] Super Mario Sunshine (Race\, incentive for Hoverless) by Bou
+ nceyboy\, Kaffelon
+DTSTART:20150731T234000Z
+DTEND:20150801T014000Z
+UID:Super Mario Sunshine@gdq
+DESCRIPTION:Game: Super Mario Sunshine\nRunners: Bounceyboy\, Kaffelon\nCo
+ nsole: Wii\nEstimate: 1:50:00 (Setup: 0:10:00)\nComments: Race\, incentive
+  for Hoverless\nTwitch Channels: http://www.twitch.com/Bounceyboy http://w
+ ww.twitch.com/Kaffelon
+LOCATION:http://www.twitch.com/Bounceyboy\nhttp://www.twitch.com/Kaffelon
+ORGANIZER;CN="Bounceyboy, Kaffelon":LINK:http://www.twitch.com/Bounceyboy,
+ LINK:http://www.twitch.com/Kaffelon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii] BONUS! Luigi's Mansion race (Starting incentive for any% no 
+ OoB\, higher incentive for 100%) by Boohead86\, Firedragon764
+DTSTART:20150801T014000Z
+DTEND:20150801T031500Z
+UID:BONUS! Luigi's Mansion race@gdq
+DESCRIPTION:Game: BONUS! Luigi's Mansion race\nRunners: Boohead86\, Firedr
+ agon764\nConsole: Wii\nEstimate: 1:25:00 (Setup: 0:10:00)\nComments: Start
+ ing incentive for any% no OoB\, higher incentive for 100%
+ORGANIZER;CN="Boohead86, Firedragon764":LINK:http://www.twitch.com/Boohead
+ 86,LINK:http://www.twitch.com/Firedragon764
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Gamecube (GBP)] Pokemon Blue (Catch 'em all (151 Pokemon run)) by
+  Shenanagans
+DTSTART:20150801T031500Z
+DTEND:20150801T054500Z
+UID:Pokemon Blue@gdq
+DESCRIPTION:Game: Pokemon Blue\nRunners: Shenanagans\nConsole: Gamecube (G
+ BP)\nEstimate: 2:20:00 (Setup: 0:10:00)\nComments: Catch 'em all (151 Poke
+ mon run)\nTwitch Channels: http://www.twitch.com/Shenangans_
+LOCATION:http://www.twitch.com/Shenangans_
+ORGANIZER;CN=Shenanagans:LINK:http://www.twitch.com/Shenanagans
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Gamecube (GBP)] INCENTIVE! Pokemon Blue blindfolded run  by Shena
+ nagans
+DTSTART:20150801T054500Z
+DTEND:20150801T063500Z
+UID:INCENTIVE! Pokemon Blue blindfolded run@gdq
+DESCRIPTION:Game: INCENTIVE! Pokemon Blue blindfolded run\nRunners: Shenan
+ agans\nConsole: Gamecube (GBP)\nEstimate: 0:40:00 (Setup: 0:10:00)\nTwitch
+  Channels: http://www.twitch.com/Shenangans_
+LOCATION:http://www.twitch.com/Shenangans_
+ORGANIZER;CN=Shenanagans:LINK:http://www.twitch.com/Shenanagans
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N64] BONUS! Pokemon Puzzle League (S-Hard and Spa Service runs) b
+ y CardsOfTheHeart\, FFRPro21
+DTSTART:20150801T063500Z
+DTEND:20150801T075000Z
+UID:BONUS! Pokemon Puzzle League@gdq
+DESCRIPTION:Game: BONUS! Pokemon Puzzle League\nRunners: CardsOfTheHeart\,
+  FFRPro21\nConsole: N64\nEstimate: 1:10:00 (Setup: 0:05:00)\nComments: S-H
+ ard and Spa Service runs\nCouch Commentators: altabiscuit\, bbforky\nTwitc
+ h Channels: http://www.twitch.com/CardsOfTheHeart
+LOCATION:http://www.twitch.com/CardsOfTheHeart
+ORGANIZER;CN="CardsOfTheHeart, FFRPro21":LINK:http://www.twitch.com/CardsO
+ fTheHeart,LINK:http://www.twitch.com/FFRPro21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Wii] Legend of Zelda: The Wind Waker  by Chaotic_Ace
+DTSTART:20150801T075000Z
+DTEND:20150801T121500Z
+UID:Legend of Zelda: The Wind Waker@gdq
+DESCRIPTION:Game: Legend of Zelda: The Wind Waker\nRunners: Chaotic_Ace\nC
+ onsole: Wii\nEstimate: 4:15:00 (Setup: 0:10:00)\nCouch Commentators: Troww
+ WW\, Wixyurns\, abahbob\nTwitch Channels: http://www.twitch.com/Chaotic_Ac
+ e
+LOCATION:http://www.twitch.com/Chaotic_Ace
+ORGANIZER;CN=Chaotic_Ace:LINK:http://www.twitch.com/Chaotic_Ace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PS3] Shadow of the Colossus (NTA%) by Meows
+DTSTART:20150801T121500Z
+DTEND:20150801T132000Z
+UID:Shadow of the Colossus@gdq
+DESCRIPTION:Game: Shadow of the Colossus\nRunners: Meows\nConsole: PS3\nEs
+ timate: 1:00:00 (Setup: 0:05:00)\nComments: NTA%\nTwitch Channels: http://
+ www.twitch.com/meowtain_dew
+LOCATION:http://www.twitch.com/meowtain_dew
+ORGANIZER;CN=Meows:LINK:http://www.twitch.com/Meows
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Batman: Arkham Origins (CCH%) by Charlitian
+DTSTART:20150801T132000Z
+DTEND:20150801T142000Z
+UID:Batman: Arkham Origins@gdq
+DESCRIPTION:Game: Batman: Arkham Origins\nRunners: Charlitian\nConsole: PC
+ \nEstimate: 0:55:00 (Setup: 0:05:00)\nComments: CCH%\nTwitch Channels: htt
+ p://www.twitch.com/Charlitian
+LOCATION:http://www.twitch.com/Charlitian
+ORGANIZER;CN=Charlitian:LINK:http://www.twitch.com/Charlitian
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] BONUS! Minecraft (Starting incentive for any%\, higher incent
+ ive for All Achievements) by FearfulFerret
+DTSTART:20150801T142000Z
+DTEND:20150801T154000Z
+UID:BONUS! Minecraft@gdq
+DESCRIPTION:Game: BONUS! Minecraft\nRunners: FearfulFerret\nConsole: PC\nE
+ stimate: 1:10:00 (Setup: 0:10:00)\nComments: Starting incentive for any%\,
+  higher incentive for All Achievements\nTwitch Channels: http://www.twitch
+ .com/FearfulFerret
+LOCATION:http://www.twitch.com/FearfulFerret
+ORGANIZER;CN=FearfulFerret:LINK:http://www.twitch.com/FearfulFerret
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Portal (Any% no OoB run) by NoirCat
+DTSTART:20150801T154000Z
+DTEND:20150801T160500Z
+UID:Portal@gdq
+DESCRIPTION:Game: Portal\nRunners: NoirCat\nConsole: PC\nEstimate: 0:20:00
+  (Setup: 0:05:00)\nComments: Any% no OoB run\nTwitch Channels: http://www.
+ twitch.com/NoirCat
+LOCATION:http://www.twitch.com/NoirCat
+ORGANIZER;CN=NoirCat:LINK:http://www.twitch.com/NoirCat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PC] Dark Souls II (Incentive for 2 players\, 1 controller) by Fea
+ rfulFerret\, Oginam
+DTSTART:20150801T160500Z
+DTEND:20150801T174500Z
+UID:Dark Souls II@gdq
+DESCRIPTION:Game: Dark Souls II\nRunners: FearfulFerret\, Oginam\nConsole:
+  PC\nEstimate: 1:30:00 (Setup: 0:10:00)\nComments: Incentive for 2 players
+ \, 1 controller\nTwitch Channels: http://www.twitch.com/Oginam http://www.
+ twitch.com/FearfulFerret
+LOCATION:http://www.twitch.com/Oginam\nhttp://www.twitch.com/FearfulFerret
+ORGANIZER;CN="FearfulFerret, Oginam":LINK:http://www.twitch.com/FearfulFer
+ ret,LINK:http://www.twitch.com/Oginam
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NES] TASBot plays Mega Man  by any% by Shinryuu and FinalFighter
+DTSTART:20150801T174500Z
+DTEND:20150801T180500Z
+UID:TASBot plays Mega Man@gdq
+DESCRIPTION:Game: TASBot plays Mega Man\nRunners: any% by Shinryuu and Fin
+ alFighter\nConsole: NES\nEstimate: 0:12:23 (Setup: 0:07:37)\nTwitch Channe
+ ls: http://www.twitch.com/dwangoAC
+LOCATION:http://www.twitch.com/dwangoAC
+ORGANIZER;CN=any%byShinryuuandFinalFighter:LINK:http://www.twitch.com/any%
+ byShinryuuandFinalFighter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[GBA] TASBot plays Sonic Advance  by any% by Mukki
+DTSTART:20150801T180500Z
+DTEND:20150801T182000Z
+UID:TASBot plays Sonic Advance@gdq
+DESCRIPTION:Game: TASBot plays Sonic Advance\nRunners: any% by Mukki\nCons
+ ole: GBA\nEstimate: 0:10:46 (Setup: 0:04:14)\nTwitch Channels: http://www.
+ twitch.com/dwangoAC
+LOCATION:http://www.twitch.com/dwangoAC
+ORGANIZER;CN=any%byMukki:LINK:http://www.twitch.com/any%byMukki
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Gamecube] TASBot plays Ikaruga  by Maximum score by keylie
+DTSTART:20150801T182000Z
+DTEND:20150801T184500Z
+UID:TASBot plays Ikaruga@gdq
+DESCRIPTION:Game: TASBot plays Ikaruga\nRunners: Maximum score by keylie\n
+ Console: Gamecube\nEstimate: 0:21:29 (Setup: 0:03:31)\nCouch Commentators:
+  ShinerCCC\nTwitch Channels: http://www.twitch.com/dwangoAC
+LOCATION:http://www.twitch.com/dwangoAC
+ORGANIZER;CN=Maximumscorebykeylie:LINK:http://www.twitch.com/Maximumscoreb
+ ykeylie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Legend of Zelda: A Link To The Past (Any% No Major Glitches
+ \; incentive for 100%) by Xelna
+DTSTART:20150801T184500Z
+DTEND:20150801T205000Z
+UID:Legend of Zelda: A Link To The Past@gdq
+DESCRIPTION:Game: Legend of Zelda: A Link To The Past\nRunners: Xelna\nCon
+ sole: SNES\nEstimate: 2:00:00 (Setup: 0:05:00)\nComments: Any% No Major Gl
+ itches\; incentive for 100%\nTwitch Channels: http://www.twitch.com/Xelna
+LOCATION:http://www.twitch.com/Xelna
+ORGANIZER;CN=Xelna:LINK:http://www.twitch.com/Xelna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N64] INCENTIVE! Super Mario 64 any% race  by 360Chrism\, GamerDom
+ ey
+DTSTART:20150801T205000Z
+DTEND:20150801T211000Z
+UID:INCENTIVE! Super Mario 64 any% race@gdq
+DESCRIPTION:Game: INCENTIVE! Super Mario 64 any% race\nRunners: 360Chrism\
+ , GamerDomey\nConsole: N64\nEstimate: 0:15:00 (Setup: 0:05:00)\nTwitch Cha
+ nnels: http://www.twitch.com/360Chrism http://www.twitch.com/GamerDomey
+LOCATION:http://www.twitch.com/360Chrism\nhttp://www.twitch.com/GamerDomey
+ORGANIZER;CN="360Chrism, GamerDomey":LINK:http://www.twitch.com/360Chrism,
+ LINK:http://www.twitch.com/GamerDomey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N64] Super Mario 64 (120 star race) by cheese05\, puncayshun\, Si
+ mply
+DTSTART:20150801T211000Z
+DTEND:20150801T232000Z
+UID:Super Mario 64@gdq
+DESCRIPTION:Game: Super Mario 64\nRunners: cheese05\, puncayshun\, Simply\
+ nConsole: N64\nEstimate: 1:55:00 (Setup: 0:15:00)\nComments: 120 star race
+ \nTwitch Channels: http://www.twitch.com/cheese05 http://www.twitch.com/pu
+ ncayshun http://www.twitch.com/Simply
+LOCATION:http://www.twitch.com/cheese05\nhttp://www.twitch.com/puncayshun\
+ nhttp://www.twitch.com/Simply
+ORGANIZER;CN="cheese05, puncayshun, Simply":LINK:http://www.twitch.com/che
+ ese05,LINK:http://www.twitch.com/puncayshun,LINK:http://www.twitch.com/Sim
+ ply
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Super Metroid (Race!) by David Clemens\, Oatsngoats\, Zoast
+DTSTART:20150801T232000Z
+DTEND:20150802T002000Z
+UID:Super Metroid@gdq
+DESCRIPTION:Game: Super Metroid\nRunners: David Clemens\, Oatsngoats\, Zoa
+ st\nConsole: SNES\nEstimate: 0:50:00 (Setup: 0:10:00)\nComments: Race!\nTw
+ itch Channels: http://www.twitch.com/DavidClemensn http://www.twitch.com/O
+ atsngoats http://www.twitch.com/zoasty
+LOCATION:http://www.twitch.com/DavidClemensn\nhttp://www.twitch.com/Oatsng
+ oats\nhttp://www.twitch.com/zoasty
+ORGANIZER;CN="DavidClemens, Oatsngoats, Zoast":LINK:http://www.twitch.com/
+ DavidClemens,LINK:http://www.twitch.com/Oatsngoats,LINK:http://www.twitch.
+ com/Zoast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SNES] Chrono Trigger (Co-op run\, incentive for 100%) by Essentia
+ \, puwexil
+DTSTART:20150802T002000Z
+DTEND:20150802T060000Z
+UID:Chrono Trigger@gdq
+DESCRIPTION:Game: Chrono Trigger\nRunners: Essentia\, puwexil\nConsole: SN
+ ES\nEstimate: 5:30:00 (Setup: 0:10:00)\nComments: Co-op run\, incentive fo
+ r 100%\nTwitch Channels: http://www.twitch.com/EssentiaFour http://www.twi
+ tch.com/puwexil
+LOCATION:http://www.twitch.com/EssentiaFour\nhttp://www.twitch.com/puwexil
+ORGANIZER;CN="Essentia, puwexil":LINK:http://www.twitch.com/Essentia,LINK:
+ http://www.twitch.com/puwexil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[All the Consoles] Finale! (As usual\, it's a miracle if we have e
+ nough energy to do shoutouts properly) by everyone
+DTSTART:20150802T060000Z
+DTEND:20150802T060500Z
+UID:Finale!@gdq
+DESCRIPTION:Game: Finale!\nRunners: everyone\nConsole: All the Consoles\nE
+ stimate: 0:05:00 (Setup: 0:00:00)\nComments: As usual\, it's a miracle if 
+ we have enough energy to do shoutouts properly
+ORGANIZER;CN=everyone:LINK:http://www.twitch.com/everyone
+END:VEVENT
+END:VCALENDAR
