@@ -48,7 +48,8 @@ def remove_spaces(s):
 for event in events:
     ical_event = Event()
 
-    event_add(ical_event, 'summary', '[{}] {} by {}'.format(event['console'], event['game'], event['runners']))
+    comment = '({})'.format(event['comments']) if event['comments'] and event['comments'] != "" else ""
+    event_add(ical_event, 'summary', '[{}] {} {} by {}'.format(event['console'], event['game'], comment, event['runners']))
 
     start_time = pytz.timezone('America/Chicago').localize(date_parser(event['date and time'])).astimezone(pytz.utc)
     event_add(ical_event, 'dtstart', vDatetime(start_time))
@@ -58,6 +59,7 @@ for event in events:
     end_time = start_time + timedelta(seconds=estimate_in_seconds+setup_in_seconds)
     event_add(ical_event, 'dtend', vDatetime(end_time))
 
+    twitch_links = []
     if event['twitch channels']:
         twitch_links = [twitch_base_url + streamer for streamer in map(remove_spaces, event['twitch channels'].split(","))]
         event_add(ical_event, 'location', '\n'.join(twitch_links))
@@ -69,6 +71,19 @@ for event in events:
     event_add(ical_event, 'organizer', organizer)
 
     event_add(ical_event, 'uid', event['game'] + '@gdq')
+
+    event_details = [
+        ('Game', event['game']),
+        ('Runners', event['runners']),
+        ('Console', event['console']),
+        ('Estimate', event['estimate'] + ' (Setup: {})'.format(event['setup'])),
+        ('Comments', event['comments']),
+        ('Couch Commentators', event['couch commentators']),
+        ('Prizes', event['prizes']),
+        ('Twitch Channels', ' '.join(twitch_links)),
+    ]
+    formatted_events = '\n'.join(["{}: {}".format(a, b) for a, b in event_details if b])
+    event_add(ical_event, 'description', formatted_events)
 
     calendar.add_component(ical_event)
 
